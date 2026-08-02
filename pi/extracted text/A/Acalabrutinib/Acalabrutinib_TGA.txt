@@ -1,0 +1,1766 @@
+1
+acalabrutinib
+2
+AUSTRALIAN PRODUCT INFORMATION
+CALQUENCE®
+(acalabrutinib) capsules
+NAME OF THE MEDICINE
+QUALITATIVE AND QUANTITATIVE COMPOSITION
+Each capsule contains 100 mg acalabrutinib.
+For the full list of excipients, see Section 6.1 List of excipients.
+3
+PHARMACEUTICAL FORM
+Capsule, hard.
+Size 1 hard gelatin capsule with a yellow body and blue cap, marked in black ink with
+'ACA 100 mg'.
+This product information document is specific to the capsule formulation of CALQUENCE, which
+has been discontinued. Please refer to the Australian Product Information for CALQUENCE tablets
+for information relating to usage in the treatment of mantle cell lymphoma.
+4
+4.1
+CLINICAL PARTICULARS
+THERAPEUTIC INDICATIONS
+CALQUENCE is indicated for the treatment of patients with chronic lymphocytic leukaemia
+(CLL)/small lymphocytic lymphoma (SLL).
+4.2
+DOSE AND METHOD OF ADMINISTRATION
+Treatment with CALQUENCE should be initiated and supervised by a physician experienced in the
+use of anticancer therapies.
+Recommended dosage (18 years and above)
+Chronic Lymphocytic Leukaemia (CLL)
+The recommended dose of CALQUENCE for the treatment of CLL is 100 mg (1 capsule) twice
+daily, either as monotherapy or in combination with obinutuzumab. Administer CALQUENCE
+prior to obinutuzumab when given on the same day. Refer to the obinutuzumab product information
+for recommended obinutuzumab dosing information (for details of the combination regimen, see
+section 5.1 Pharmacodynamic properties).
+Doses should be separated by approximately 12 hours.
+Treatment with CALQUENCE should continue until disease progression or unacceptable toxicity.
+1 of 24
+Missed dose
+If a patient misses a dose of CALQUENCE by more than 3 hours, instruct the patient to take the
+next dose at its regularly scheduled time. Extra capsules of CALQUENCE should not be taken to
+make up for a missed dose.
+Dose adjustments
+Adverse reactions
+Recommended dose modifications of CALQUENCE for Grade 3 or greater adverse reactions are
+provided in Table 1.
+Table 1
+a
+Event
+Recommended dose adjustments for adverse reactions a
+(Starting dose = 100 mg twice daily)
+Temporarily interrupt CALQUENCE.
+Once toxicity has resolved to Grade 1 or baseline
+(recovery) level, CALQUENCE therapy may be
+resumed at 100 mg twice daily.
+Adverse reaction
+Dose modification
+occurrence
+First and second
+Grade 3 or greater non-haematologic
+toxicities,
+Grade 3 thrombocytopenia with
+significant bleeding,
+Third
+Grade 4 thrombocytopenia or
+Grade 4 neutropenia lasting longer
+than 7 days
+Fourth
+Temporarily interrupt CALQUENCE.
+Once toxicity has resolved to Grade 1 or baseline level
+(recovery), CALQUENCE therapy may be resumed at
+100 mg daily.
+Discontinue CALQUENCE.
+Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE)
+version 4.03
+Dose adjustments for use with CYP3A inhibitors or inducers, and gastric acid reducing
+medicines
+Recommended dose adjustments are described in Table 2 below (see also Section 4.5 Interactions
+with other medicines and other forms of interactions).
+Table 2
+Use with CYP3A inhibitors or inducers, and gastric acid reducing medicines
+Co-administered medicines
+CYP3A inhibitor Strong CYP3A inhibitor
+Recommended CALQUENCE use
+Avoid concomitant use.
+If these inhibitors will be used short-term (such as anti-
+infectives for up to seven days), interrupt CALQUENCE.
+Moderate CYP3A inhibitor
+Reduce CALQUENCE dose to 100 mg once daily.
+CYP3A inducer
+Strong CYP3A inducer
+Avoid concomitant use.
+Gastric acid
+Proton pump inhibitors
+Avoid concomitant use.
+reducing
+H2-receptor antagonists
+medicines
+Take CALQUENCE 2 hours before taking a H2-receptor
+antagonist.
+Antacids
+Separate dosing by at least 2 hours.
+Special patient populations
+Renal impairment
+No dose adjustment is recommended in patients with mild to moderate renal impairment (estimated
+Glomerular Filtration Rate (eGFR) ≥30 mL/min/1.73 m² as estimated by MDRD (modification of
+diet in renal disease equation)). The pharmacokinetics and safety of CALQUENCE in patients with
+severe renal impairment (eGFR <29 mL/min/1.73 m²) or end-stage renal disease have not been
+studied (see Section 5.2 Pharmacokinetic properties).
+2 of 24
+Hepatic impairment
+No dose adjustment is recommended in patients with mild or moderate hepatic impairment (Child-
+Pugh A, Child-Pugh B, or total bilirubin between 1.5-3 times the upper limit of normal [ULN] and
+any AST). It is not recommended to administer CALQUENCE in patients with severe hepatic
+impairment (Child-Pugh C or total bilirubin >3 times ULN and any AST) (see Section 5.2
+Pharmacokinetic properties).
+Severe Cardiac Disease
+Patients with severe cardiovascular disease were excluded from CALQUENCE clinical studies.
+Use in the elderly
+No dose adjustment is necessary based on age (see Section 5.2 Pharmacokinetic properties).
+Paediatric use
+The safety and efficacy of CALQUENCE in children and adolescents aged less than 18 years have
+not been established.
+Method of administration
+CALQUENCE should be swallowed whole with water at approximately the same time each day.
+CALQUENCE can be taken with or without food. The capsule should not be chewed, dissolved, or
+opened.
+4.3
+None.
+4.4
+CONTRAINDICATIONS
+SPECIAL WARNINGS AND PRECAUTIONS FOR USE
+Haemorrhage
+Serious haemorrhagic events, including fatal events, have occurred in the combined safety database
+of 1040 patients with haematologic malignancies treated with CALQUENCE monotherapy. Major
+haemorrhage (Grade 3 or higher bleeding events, serious, or any central nervous system events)
+occurred in 3.6% of patients, with fatalities occurring in 0.1% of patients. Overall, bleeding events
+including bruising and petechiae of any grade occurred in 46% of patients with haematological
+malignancies.
+The mechanism for the bleeding events is not well understood. Use of antithrombotic agents
+concomitantly with CALQUENCE may increase the risk of haemorrhage. In CALQUENCE clinical
+trials, 3% of patients taking CALQUENCE without antithrombotic agents experienced major
+haemorrhage. The addition of antithrombotic agents increased the percentage to 4.3%. Consider the
+risks and benefits of antithrombotic agents when co-administered with CALQUENCE. Patients
+should be monitored for signs of bleeding. Consider the benefit-risk of withholding CALQUENCE
+for 3-7 days pre- and post-surgery depending upon the type of surgery and the risk of bleeding.
+Infection
+Serious infections (bacterial, viral or fungal), including fatal events have occurred in the combined
+safety database of 1040 patients with haematologic malignancies treated with CALQUENCE
+monotherapy. Consider prophylaxis in patients who are at increased risk for opportunistic
+infections.
+Grade 3 or higher infections occurred in 18% of these patients. The most frequently reported Grade
+3 or higher infection was pneumonia. Infections due to hepatitis B virus (HBV) reactivation,
+3 of 24
+aspergillosis, and progressive multifocal leukoencephalopathy (PML) have occurred. Monitor
+patients for signs and symptoms of infection and treat as medically appropriate.
+Cytopenias
+In the combined safety database of 1040 patients with haematologic malignancies, patients treated
+with CALQUENCE monotherapy experienced Grade 3 or 4 cytopenias, including neutropenia
+(21%), anaemia (10%) and thrombocytopenia (7%) based on laboratory measurements. Monitor
+complete blood counts as medically appropriate during treatment.
+Second primary malignancies
+Second primary malignancies, including non-skin cancers, occurred in 12% of patients with
+haematologic malignancies treated with CALQUENCE monotherapy in the combined safety
+database of 1040 patients. The most frequent second primary malignancy was skin cancer, which
+occurred in 7% of patients. Monitor patients for the appearance of skin cancers. Advise protection
+from sun exposure.
+Cardiac arrhythmias including atrial fibrillation and flutter
+Serious cardiac arrhythmias have occurred in patients treated with CALQUENCE. In the combined
+safety database of 1040 patients with haematologic malignancies treated with CALQUENCE
+monotherapy, Grade 3 atrial fibrillation and atrial flutter occurred in 1% of patients and Grade 1 or
+2 in 3% of patients. Monitor for symptoms of cardiac arrhythmia, including atrial fibrillation and
+atrial flutter, (e.g., palpitations, dizziness, syncope, chest pain, dyspnoea) and obtain an ECG as
+appropriate.
+Hepatotoxicity, including drug-induced liver injury
+Hepatotoxicity, including severe, life-threatening, and potentially fatal cases of drug-induced liver
+injury (DILI), has occurred in patients treated with Bruton tyrosine kinase inhibitors, including
+CALQUENCE.
+Evaluate bilirubin and transaminases at baseline and throughout treatment with CALQUENCE. For
+patients who develop abnormal liver tests after CALQUENCE, monitor more frequently for liver
+test abnormalities and clinical signs and symptoms of hepatic toxicity. If DILI is suspected,
+withhold CALQUENCE. Upon confirmation of DILI, discontinue CALQUENCE.
+Use in the elderly
+Of the 1040 patients in clinical trials of CALQUENCE monotherapy, 41% were ≥65 years of age
+and less than 75 years of age, and 22% were 75 years of age or older. No clinically relevant
+differences in safety or efficacy were observed between patients ≥65 years and younger.
+Paediatric use
+The safety and efficacy of CALQUENCE in children and adolescents aged less than 18 years have
+not been established.
+Effects on laboratory tests
+No data available.
+4 of 24
+4.5
+INTERACTIONS WITH OTHER MEDICINES AND OTHER FORMS OF
+INTERACTIONS
+Interactions with CYP3A inhibitors and inducers, or gastric acid reducing medicines
+The clinical impact and prevention or management of interactions with CYP3A inhibitors or
+inducers, or gastric acid reducing medicines are provided below in Table 3 and Table 4
+respectively. See also Section 4.2 Dose and method of administration and Section 5.2
+Pharmacokinetic properties.
+Table 3
+Interactions with other medicines – CYP3A inhibitors and inducers
+Strong CYP3A Inhibitors
+Clinical
+impact
+Co-administration of CALQUENCE with a strong CYP3A inhibitor (e.g. itraconazole) increased
+acalabrutinib plasma concentrations.
+Increased acalabrutinib concentrations may result in increased toxicity.
+Avoid co-administration of strong CYP3A inhibitors with CALQUENCE.
+Alternatively, if the inhibitor will be used short-term, interrupt CALQUENCE
+Prevention or
+management
+Moderate CYP3A Inhibitors
+Clinical
+impact
+Prevention or
+management
+Co-administration of CALQUENCE with a moderate CYP3A inhibitor (e.g. diltiazem,
+erythromycin, fluconazole) may increase acalabrutinib plasma concentrations.
+Increased acalabrutinib concentrations may result in increased toxicity.
+When CALQUENCE is co-administered with moderate CYP3A inhibitors, reduce acalabrutinib
+dose to 100 mg once daily.
+Strong CYP3A Inducers
+Clinical
+impact
+Prevention or
+management
+Co-administration of CALQUENCE with a strong CYP3A inducer (e.g. rifampin) decreased
+acalabrutinib plasma concentrations
+Decreased acalabrutinib concentrations may reduce CALQUENCE activity.
+Avoid co-administration of strong CYP3A inducers with CALQUENCE.
+Table 4
+Clinical
+impact
+Prevention or
+management
+Interactions with other medicines – Gastric acid reducing medicines
+Co-administration of CALQUENCE with a proton pump inhibitor, H2-receptor antagonist, or
+antacid may decrease acalabrutinib plasma concentrations
+Decreased acalabrutinib concentrations may reduce CALQUENCE activity.
+If treatment with a gastric acid reducing agent is required, consider using a H2-receptor antagonist
+(e.g. ranitidine or famotidine) or an antacid (e.g. calcium carbonate).
+Antacids
+H2-receptor antagonists
+Proton pump inhibitors
+Separate dosing by at least 2 hours
+Take CALQUENCE 2 hours before taking the H2-receptor antagonist
+Avoid co-administration. Due to the long-lasting effect of proton
+pump inhibitors, separation of doses may not eliminate the interaction
+with CALQUENCE.
+Effects of acalabrutinib and its active metabolite, ACP-5862, on CYP450 and UGT enzymes
+In vitro data indicate no relevant inhibition of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19,
+CYP2D6, CYP3A4/5, UGT1A2 or UGT2B7 by acalabrutinib or ACP-5862 at therapeutic
+concentrations. Acalabrutinib is a weak inducer of CYP1A2, CYP2B6 and CYP3A4; ACP-5862
+weakly induces CYP3A4.
+Effects of acalabrutinib and its active metabolite, ACP-5862, on drug transport systems
+Acalabrutinib may increase exposure to co-administered BCRP substrates (e.g. methotrexate) by
+inhibition of intestinal BCRP.
+5 of 24
+ACP-5862 may increase exposure to co-administered MATE1 substrates (e.g., metformin) by
+inhibition of MATE1.
+In vitro, acalabrutinib and ACP-5862 are substrates of P-glycoprotein (P-gp) and breast cancer
+resistance protein (BCRP). Acalabrutinib is not a substrate of renal uptake transporters OAT1,
+OAT3, and OCT2, or hepatic transporters OATP1B1 and OATP1B3. ACP-5862 is not a substrate
+of OATP1B1 or OATP1B3. Acalabrutinib and ACP-5862 do not inhibit P-gp, OAT1, OAT3,
+ОСТ2, ОАТР1B1, OATP1B3 and MATE2-K at clinically relevant concentrations.
+Effect of food on acalabrutinib
+In healthy subjects, administration of a single 75 mg dose of acalabrutinib with a high fat, high
+calorie meal (approximately 918 calories, 59 grams carbohydrate, 59 grams fat, and 39 grams
+protein) did not affect the mean AUC as compared to dosing under fasted conditions. Resulting
+Cmax decreased by 73% and Tmax was delayed 1-2 hours.
+4.6
+FERTILITY, PREGNANCY AND LACTATION
+Effects on fertility
+In a fertility study in rats, there were no effects of acalabrutinib on fertility in male rats at exposures
+16-times, or in female rats at exposures 14-times the AUC observed in patients at the recommended
+dose of 100 mg twice daily.
+Use in pregnancy – Category C
+Based on findings in animals, CALQUENCE may cause fetal harm when administered to a
+pregnant woman. There are no available data in pregnant women to inform the drug-associated risk.
+In animal reproduction studies, administration of acalabrutinib to pregnant rabbits during
+organogenesis resulted decreased fetal body weights and delayed skeletal ossification at maternal
+exposures (AUC) approximately 3.6 times exposures in patients at the recommended dose of 100
+mg twice daily. This dose was maternotoxic. Dystocia was observed in a rat study (see below).
+Advise pregnant women of the potential risk to a fetus.
+In a combined fertility and embryofetal development study in female rats, acalabrutinib was
+administered orally at doses up to 200 mg/kg/day starting prior to mating through the period of
+organogenesis. No effects on embryofetal development or survival were observed. The AUC at 200
+mg/kg/day in pregnant rats was approximately 16-times the AUC in patients at the recommended
+dose of 100 mg twice daily. The presence of acalabrutinib and its active metabolite were confirmed
+in fetal rat plasma.
+In a rat reproductive study involving dosing animals from implantation throughout gestation,
+parturition and lactation, dystocia (prolonged /difficult labour) was observed at ≥100 mg/kg/day,
+yielding exposures > 3.5-times the clinical exposure at 100 mg twice daily. Dystocia was not
+observed in rats at 50 mg/kg/day, associated with exposures approximately equivalent to the clinical
+exposure at 100 mg twice daily
+Use in lactation
+No data are available regarding the presence of acalabrutinib or its active metabolite in human milk,
+its effects on the breastfed child, or on milk production. Acalabrutinib and its active metabolite
+were present in the milk of lactating rats. Due to the potential for adverse reactions in a breastfed
+child from CALQUENCE, advise lactating women not to breastfeed while taking CALQUENCE
+and for at least 2 weeks after the final dose.
+6 of 24
+4.7
+EFFECTS ON ABILITY TO DRIVE AND USE MACHINES
+CALQUENCE has no or negligible influence on the ability to drive and use machines. However,
+during treatment with acalabrutinib fatigue and dizziness have been reported and patients who
+experience these symptoms should observe caution when driving or using machines.
+4.8
+ADVERSE EFFECTS (UNDESIRABLE EFFECTS)
+Clinical trials experience
+As clinical trials are conducted under widely varying conditions, adverse reaction rates observed in
+the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug
+and may not reflect the rates observed in practice.
+Chronic Lymphocytic Leukaemia (CLL)
+The safety data described below reflect exposure to CALQUENCE (100 mg twice daily) in two
+randomised controlled clinical trials (ELEVATE-TN and ASCEND) in patients with CLL (see
+Section 5.1 Pharmacodynamic properties / Clinical trials).
+The most common adverse reactions (≥ 20%) of any grade were infection, neutropenia, anaemia,
+thrombocytopenia, headache, diarrhoea, musculoskeletal pain, bruising, and nausea. The most
+commonly reported Grade ≥ 3 adverse reactions were infection, neutropenia, and anaemia.
+ELEVATE-TN (Patients with Previously Untreated CLL)
+The safety of CALQUENCE plus obinutuzumab (CALQUENCE+G), CALQUENCE monotherapy,
+and obinutuzumab plus chlorambucil (GClb) was evaluated in a randomised, multicentre, open-
+label, phase 3 study, in 526 patients with previously untreated CLL. Details of the study treatment
+are described in Section 5.1 (Pharmacodynamic properties / Clinical trials).
+In the CALQUENCE+G arm, adverse events led to regimen discontinuation in 11% of patients and
+a dose reduction of CALQUENCE in 8% of patients. In the CALQUENCE monotherapy arm,
+adverse events led to discontinuation in 9% and dose reduction in 3% of patients. In the GClb arm,
+adverse events led to regimen discontinuation in 14% of patients and a dose reduction of
+chlorambucil in 28% of patients. There were no dose reductions for obinutuzumab.
+The adverse reactions described below in Table 5 and Table 6 reflect exposure to CALQUENCE in
+the CALQUENCE+G and CALQUENCE monotherapy arms with a median duration of exposure of
+27.7 months in patients with previously untreated CLL. The median duration of exposure in the
+GClb arm was 5.6 months.
+7 of 24
+Non-Haematologic Adverse Reactions ª in ≥ 5% (All Grades) of Patients with
+CALQUENCE plus
+Obinutuzumab
+Table 5
+CLL in ELEVATE-TN
+Body System
+Adverse Reaction
+N=178
+All Grades
+(%)
+Obinutuzumab plus
+Chlorambucil
+N=169
+CALQUENCE
+Monotherapy
+N=179
+Grade ≥ 3
+(%)
+All Grades
+(%)
+Grade ≥3 All Grades
+(%)
+(%)
+Grade ≥ 3
+(%)
+Blood and lymphatic system disorders
+Leukopenia b
+33
+32
+12
+11
+50
+46
+Nervous system disorders
+Headache
+40
+1
+37
+1
+12
+0
+Dizziness
+18
+0
+12
+0
+6
+0
+Gastrointestinal disorders
+Diarrhoea
+39
+5
+35
+1
+21
+2
+Nausea
+20
+0
+22
+0
+31
+0
+Constipation
+14
+0
+11
+0
+10
+1
+Vomiting
+14
+1
+12
+1
+11
+1
+Abdominal pain b
+12
+2
+10
+0
+9
+0
+General disorders and administration site conditions
+Fatigue
+28
+2
+18
+1
+17
+1
+Asthenia
+10
+1
+5
+0
+6
+1
+Musculoskeletal and connective tissue disorders
+Musculoskeletal Pain b
+37
+2
+32
+1
+16
+2
+Arthralgia
+22
+1
+16
+1
+5
+1
+Infections and Infestations
+Infection b
+69
+21
+65
+14
+44
+8
+Neoplasms benign, malignant and unspecified
+Second Primary Malignancy b
+11
+4
+8
+1
+4
+2
+SPM excluding non-melanoma skin
+6
+3
+3
+1
+2
+1
+b
+Non-Melanoma Skin Malignancy b
+5
+1
+6
+0
+2
+1
+Skin and subcutaneous tissue disorders
+Bruising b
+34
+0
+26
+0
+5
+0
+Rash b
+22
+2
+19
+1
+7
+1
+Vascular disorders
+Haemorrhage/Haematoma b
+13
+1
+9
+1
+4
+0
+a
+Per National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03.
+b
+Includes multiple ADR terms
+8 of 24
+Table 6
+Haematologic Adverse Reactions ª in ≥ 20% of Patients with CLL in
+ELEVATE-TN
+Haematologic
+Adverse Reactions
+CALQUENCE plus
+Obinutuzumab
+N=178
+CALQUENCE
+Monotherapy
+Grades (%)
+Obinutuzumab plus
+Chlorambucil
+All
+N=169
+N=179
+All
+Grade ≥ 3
+Absolute Neutrophil Count
+Grades (%)
+53
+(%)
+35
+All
+Grades (%)
+24
+Grade ≥ 3
+(%)
+13
+76
+Grade ≥ 3
+(%)
+50
+decreased
+Haemoglobin decreased
+51
+11
+52
+10
+53
+13
+Platelets decreased
+51
+12
+32
+3
+60
+16
+a
+Per National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03 based on
+laboratory measurements and adverse reactions
+Tumour Lysis Syndrome
+Tumour lysis syndrome (TLS) was reported in 2% of patients treated with CALQUENCE+G. No
+patients experienced TLS in the CALQUENCE monotherapy arm.
+Atrial Fibrillation/Atrial Flutter
+Atrial Fibrillation/Atrial Flutter was reported in patients treated with CALQUENCE+G and
+CALQUENCE monotherapy with an incidence of 3% and 4%, respectively, including 1% with >
+Grade 3 atrial fibrillation/atrial flutter in the CALQUENCE+G arm. No patients experienced ≥
+Grade 3 atrial fibrillation/atrial flutter in the CALQUENCE monotherapy arm.
+Infusion related reaction
+Infusion related reaction was reported in 14% and 40% of patients in the CALQUENCE+G and
+GClb arms, respectively.
+ASCEND (Patients with CLL who received at least one prior therapy)
+The safety of CALQUENCE versus investigator's choice of either idelalisib plus rituximab or
+bendamustine plus rituximab was evaluated in a randomised, multicentre, open-label, phase 3 study,
+in 307 patients with relapsed or refractory CLL. Details of the study treatment are described in
+Section 5.1 (Pharmacodynamic properties / Clinical trials).
+In the CALQUENCE arm, adverse events led to discontinuation in 10% and dose reduction in 3%
+of patients. In patients receiving idelalisib plus rituximab, adverse events led to regimen
+discontinuation in 9% of patients and a dose reduction of idelalisib in 24%. In patients receiving
+bendamustine plus rituximab, adverse events led to regimen discontinuation in 9% of patients and a
+dose reduction of bendamustine in 14% of patients. There were no dose reductions of rituximab.
+The adverse reactions described below in Table 7 and Table 8 reflect exposure to CALQUENCE
+with a median duration of 15.7 months, exposure to idelalisib with a median duration of 11.5
+months, exposure to rituximab with a median duration of 5.5 months, and exposure to bendamustine
+and a median duration of 5.6 months in patients with relapsed or refractory CLL.
+9 of 24
+Table 7
+Body System
+CALQUENCE
+N=154
+Adverse Reaction
+Non-Haematologic Adverse Reactions ª in ≥ 5% (All Grades) of Patients with
+CLL in ASCEND
+Bendamustine plus
+Rituximab
+N=35
+Idelalisib plus Rituximab
+N=118
+All
+Grades (%)
+Grade ≥ 3
+(%)
+All
+Grades (%)
+Grade ≥ 3
+(%)
+All
+Grades (%)
+Grade ≥ 3
+(%)
+Blood and lymphatic system disorders
+Leukopenia b
+21
+18
+53
+49
+37
+34
+Cardiac disorders
+Atrial Fibrillation/Flutter b
+5
+1
+3
+1
+3
+3
+Nervous system disorders
+Headache
+22
+1
+6
+0
+0
+0
+Dizziness
+6
+0
+3
+0
+0
+0
+Gastrointestinal disorders
+Diarrhoea
+18
+1
+47
+24
+14
+0
+Nausea
+7
+0
+13
+1
+20
+0
+Constipation
+7
+0
+8
+0
+14
+6
+Abdominal pain b
+8
+0
+9
+1
+3
+0
+General disorders and administration site conditions
+Fatigue
+10
+1
+9
+0
+23
+3
+Asthenia
+5
+1
+4
+1
+9
+3
+Musculoskeletal and connective tissue disorders
+Musculoskeletal Pain b
+15
+1
+15
+2
+3
+0
+Arthralgia
+8
+1
+6
+0
+3
+0
+Infections and Infestations
+Infection
+57
+15
+65
+28
+49
+11
+Neoplasms benign, malignant and unspecified
+Second Primary Malignancy b
+12
+4
+3
+0
+3
+3
+SPM excluding non-melanoma skin b
+7
+3
+3
+0
+3
+3
+Non-Melanoma Skin Malignancy b
+7
+1
+1
+0
+0
+0
+Skin and subcutaneous tissue disorders
+Bruising b
+12
+0
+3
+0
+0
+0
+Rash b
+7
+0
+16
+3
+9
+0
+Vascular disorders
+Haemorrhage/Haematomab
+13
+1
+4
+1
+6
+3
+a
+Per National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03.
+b
+Includes multiple ADR terms
+10 of 24
+Haematologic Adverse Reactions ª in ≥ 20% of Patients with CLL in
+Table 8
+ASCEND
+Grade ≥ 3
+(%)
+Haematologic
+CALQUENCE
+N=154
+Adverse Reactions
+All
+Grades (%)
+Absolute Neutrophil Count
+decreased
+47
+22
+Idelalisib plus Rituximab
+N=118
+Grade ≥ 3
+(%)
+All
+Grades (%)
+79
+48
+Bendamustine plus
+Ritixumab
+N=35
+All
+Grades (%)
+80
+Grade ≥ 3
+(%)
+40
+Haemoglobin decreased
+47
+15
+44
+8
+57
+17
+Platelets decreased
+33
+6
+40
+13
+54
+6
+a
+Per National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03 based on
+laboratory measurements and adverse reactions
+Tumour Lysis Syndrome
+TLS was reported in patients treated with CALQUENCE and idelalisib plus rituximab with an
+incidence of 1% in both arms. The one patient experiencing TLS treated with CALQUENCE had
+Grade 3 TLS and bulky disease.
+Post-marketing Experience
+The following adverse reactions have been identified during post-approval use of CALQUENCE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always
+possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+•
+•
+Vascular disorders: hypertension
+Cardiac disorders: cardiac arrhythmias
+Hepatobiliary disorders: hepatotoxicity, drug-induced liver injuryReporting suspected adverse
+effects
+Reporting suspected adverse reactions after registration of the medicinal product is important. It
+allows continued monitoring of the benefit-risk balance of the medicinal product. Healthcare
+professionals are asked to report any suspected adverse reactions at www.tga.gov.au/reporting-
+problems.
+4.9
+OVERDOSE
+There is no specific treatment for acalabrutinib overdose and symptoms of overdose have not been
+established. In the event of an overdose, patients must be closely monitored for signs or symptoms
+of adverse reactions and appropriate symptomatic treatment instituted.
+For information on the management of overdose, contact the Poison Information Centre on 131126
+(Australia).
+11 of 24
+5
+5.1
+PHARMACOLOGICAL PROPERTIES
+PHARMACODYNAMIC PROPERTIES
+Mechanism of action
+Acalabrutinib is a small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Acalabrutinib and its
+active metabolite, ACP-5862, form a covalent bond with a cysteine residue in the BTK active site,
+leading to inhibition of BTK enzymatic activity. BTK is a signalling molecule of the B-cell antigen
+receptor (BCR) and cytokine receptor pathways. In B-cells, BTK signalling results in activation of
+pathways necessary for B-cell proliferation, trafficking, chemotaxis, and adhesion. In nonclinical
+studies, acalabrutinib inhibited BTK-mediated activation of downstream signalling proteins CD86
+and CD69 and inhibited malignant B-cell proliferation and tumour growth in mouse xenograft models.
+Pharmacodynamics
+In patients with B-cell malignancies dosed with 100 mg twice daily, median steady state BTK
+occupancy of ≥95% in peripheral blood was maintained over 12 hours, resulting in inactivation of
+BTK throughout the recommended dosing interval.
+Cardiac electrophysiology
+The effect of acalabrutinib on the QTc interval was evaluated in a randomised, double-blind,
+double-dummy, placebo- and positive-controlled, 4-way crossover thorough QTc study in 48
+healthy adult subjects. Administration of a single dose of acalabrutinib that is the 4-fold maximum
+recommended single dose did not prolong the QTc interval to any clinically relevant extent (i.e.
+≥10 ms).
+Clinical trials
+Chronic Lymphocytic Leukaemia (CLL)
+Patients with Previously Untreated CLL
+The safety and efficacy of CALQUENCE in previously untreated CLL were evaluated in a
+randomised, multi-centre, open-label Phase 3 study (ELEVATE-TN) of 535 patients. Patients
+received CALQUENCE plus obinutuzumab, CALQUENCE monotherapy, or obinutuzumab plus
+chlorambucil. Patients 65 years of age or older or between 18 and 65 years of age with coexisting
+medical conditions were included in ELEVATE-TN. The trial also allowed patients to receive
+antithrombotic agents other than warfarin or equivalent vitamin K antagonists.
+Patients were randomised in a 1:1:1 ratio into 3 arms to receive
+•
+•
+•
+CALQUENCE plus obinutuzumab (CALQUENCE+G): CALQUENCE 100 mg was
+administered twice daily starting on Cycle 1 Day 1 until disease progression or unacceptable
+toxicity. Obinutuzumab was administered starting on Cycle 2 Day 1 for a maximum of
+6 treatment cycles. Obinutuzumab 1000 mg was administered on Days 1 and 2 (100 mg on Day
+1 and 900 mg on Day 2), 8 and 15 of Cycle 2 followed by 1000 mg on Day 1 of Cycles 3 up to
+7. Each cycle was 28 days.
+CALQUENCE monotherapy: CALQUENCE 100 mg was administered twice daily until disease
+progression or unacceptable toxicity.
+Obinutuzumab plus chlorambucil (GClb): Obinutuzumab and chlorambucil were administered
+for a maximum of 6 treatment cycles. Obinutuzumab 1000 mg was administered on Days 1 and
+2 (100 mg on Day 1 and 900 mg on Day 2), 8 and 15 of Cycle 1 followed by 1000 mg on Day 1
+of Cycles 2 up to 6. Chlorambucil 0.5 mg/kg was administered on Days 1 and 15 of Cycles 1 up
+to 6. Each cycle was 28 days.
+12 of 24
+Patients were stratified by 17p deletion mutation status (presence versus absence), ECOG
+performance status (0 or 1 versus 2) and geographic region (North America and Western Europe
+versus Other). After confirmed disease progression, 45 patients randomised on the GClb arm
+crossed over to CALQUENCE monotherapy. Table 9 summarises the baseline demographics and
+disease characteristics of the study population.
+Table 9
+Baseline Patient Characteristics in (ELEVATE-TN) Patients Previously
+Untreated CLL
+Characteristic
+CALQUENCE
+plus
+obinutuzumab
+N=179
+CALQUENCE
+Monotherapy
+N=179
+Obinutuzumab
+N=179
+plus
+Chlorambucil
+N=177
+Age, years; median (range)
+70 (41-88)
+70 (44-87)
+71 (46-91)
+Male; %
+62
+62
+59.9
+Caucasian; %
+91.6
+95
+93.2
+ECOG performance status 0-1; %
+94.4
+92.2
+94.4
+Median time from diagnosis (months)
+30.5
+24.4
+30.7
+Bulky disease with nodes ≥ 5 cm; %
+25.7
+38
+31.1
+Cytogenetics/FISH Category; %
+17p deletion
+9.5
+8.9
+9
+11q deletion
+17.3
+17.3
+18.6
+TP53 mutation
+11.7
+10.6
+11.9
+Unmutated IGHV
+57.5
+66.5
+65.5
+Complex karyotype (≥ 3 abnormalities)
+16.2
+17.3
+18.1
+Rai stage; %
+0
+I
+II
+III
+IV
+1.7
+0
+0.6
+30.2
+26.8
+28.2
+20.1
+24.6
+27.1
+26.8
+27.9
+22.6
+21.2
+20.7
+21.5
+The primary endpoint was progression-free survival (PFS) of CALQUENCE+G arm versus GClb
+arm as assessed by an Independent Review Committee (IRC) per International Workshop on
+Chronic Lymphocytic Leukaemia (IWCLL) 2008 criteria with incorporation of the clarification for
+treatment-related lymphocytosis (Cheson 2012). With a median follow-up of 28.3 months, PFS by
+IRC indicated a 90% statistically significant reduction in the risk of disease progression or death for
+previously untreated CLL patients in the CALQUENCE+G arm compared to the GClb arm. At the
+time of analysis, median overall survival had not been reached in any arm with a total of 37 deaths:
+9 (5%) in the CALQUENCE+G arm, 11 (6.1%) in the CALQUENCE monotherapy arm, and
+17 (9.6%) in the GClb arm. Efficacy results are presented in Table 10. The Kaplan-Meier curves for
+PFS are shown in Figure 1.
+13 of 24
+Table 10
+Efficacy Results in (ELEVATE-TN) Patients with CLL
+CALQUENCE
+plus obinutuzumab
+N=179
+CALQUENCE
+Monotherapy
+Obinutuzumab
+N=179
+plus Chlorambucil
+N=177
+Progression-Free Survival a
+Number of events (%)
+PD, n (%)
+Death events (%)
+Median (95% CI), months
+HRb (95% CI)
+P-value
+24 months estimate, % (95% CI)
+20 (11.2)
+82 (46.3)
+14 (7.8)
+26 (14.5)
+93 (52.5)
+9 (5)
+5 (2.8)
+11 (6.2)
+NR
+0.10 (0.06, 0.17)
+< 0.0001
+92.7 (87.4, 95.8)
+Overall Response Rate ª (CR + CRi + nPR + PR)
+168 (93.9)
+(89.3, 96.5)
+< 0.0001
+23 (12.8)
+6 (3.4)
+NR (34.2, NR)
+0.20 (0.13, 0.30)
+< 0.0001
+87.3 (80.9, 91.7)
+153 (85.5)
+(79.6, 89.9)
+0.0763
+1 (0.6)
+0
+22.6 (20.2, 27.6)
+46.7 (38.5, 54.6)
+139 (78.5)
+(71.9, 83.9)
+8 (4.5)
+0
+ORR, n (%)
+(95% CI)
+P-value
+CR, n (%)
+CRi, n (%)
+1 (0.6)
+nPR, n (%)
+1 (0.6%)
+2 (1.1%)
+3 (1.7%)
+PR, n (%)
+143 (79.9)
+150 (83.8)
+128 (72.3)
+PRL, n (%)
+SD, n (%)
+PD, n (%)
+Non-evaluable, n (%)
+Unknown, n (%)
+0
+2 (1.1)
+0
+4 (2.2)
+8 (4.5)
+15 (8.5)
+0
+3 (1.7)
+0
+0
+1 (0.6)
+8 (4.5)
+6 (3.4)
+12 (6.7)
+12 (6.8)
+CI=confidence interval; HR=hazard ratio; NR=not reached; CR=complete response; CRi=complete response with incomplete
+blood count recovery; nPR=nodular partial response; PR=partial response; PRL=PR with lymphocytosis; SD=stable disease;
+PD-progressive disease
+a
+Per IRC assessment
+b
+Based on stratified Cox-Proportional-Hazards model
+14 of 24
+Figure 1
+Progression Free Survival (%)
+100
+80-
+60-
+40-
+20-
+Kaplan-Meier Curve of IRC-Assessed PFS in (ELEVATE-TN) Patients with
+CLL (ITT Population)
+CALQUENCE+G
+----++
+CALQUENCE
++
+GCT
++
+0
+12
+18
+24
+30
+36
+40
+Time from Randomization (months)
+Number of patients at risk
+Month
+0
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+33
+36
+39
+CALQUENCE 179 166
+161
+157
+153
+150
+148
+147
+103
+94
+43
+40
+4
+3
+CALQUENCE-G 179
+176
+170
+168
+163
+160 159
+155
+109
+104
+46
+41
+4
+2
+GCTb
+177
+162
+157
+151
+136
+113
+102
+86
+46
+41
+13
+13
+3
+2
+PFS results for CALQUENCE with or without obinutuzumab were consistent across subgroups,
+including high risk features. In the high risk CLL population (17p deletion, 11q deletion, TP53
+mutation, and unmutated IGHV), the PFS HRs of CALQUENCE with or without obinutuzumab
+versus obinutuzumab plus chlorambucil was 0.08 [95% CI (0.04, 0.15)] and 0.15 [95% CI (0.09,
+0.25)], respectively.
+With long term data, the median follow-up was 58.2 months for CALQUENCE+G arm, 58.1
+months for CALQUENCE arm and 58.2 months for the GClb arm. The median investigator-
+assessed PFS for CALQUENCE+G and CALQUENCE monotherapy was not reached; and was
+27.8 months in GClb arm. At the time of most recent data cut off, a total of 72 patients (40.7%)
+originally randomised to the GClb arm crossed over to CALQUENCE monotherapy. The median
+overall survival had not been reached in any arm with a total of 76 deaths: 18 (10.1%) in the
+CALQUENCE+G arm, 30 (16.8%) in the CALQUENCE monotherapy arm, and 28 (15.8%) in the
+GClb arm. The time to next treatment was prolonged for CALQUENCE+G arm (HR=0.14 [95%
+CI: 0.09, 0.21]) and CALQUENCE only arm (HR=0.27 [95% CI: 0.19 0.38]) compared to GClb
+arm.
+Table 11
+Efficacy Results per INV assessment in (ELEVATE-TN) Patients with CLL
+CALQUENCE plus
+obinutuzumab
+N=179
+CALQUENCE
+monotherapy
+N=179
+Obinutuzumab plus
+Chlorambucil
+N=177
+Progression-free survival
+Number of events (%)
+PD, n (%)
+27 (15.1)
+50 (27.9)
+124 (70.1)
+14 (7.8)
+30 (16.8)
+112 (63.3)
+15 of 24
+Death events (%)
+Median (95% CI), months a
+HR (95% CI) b
+Overall survival
+Death events (%)
+HR (95% CI) b
+CALQUENCE plus
+obinutuzumab
+N=179
+13 (7.3)
+NR
+0.11 (0.07, 0.16)
+18 (10.1)
+0.55 (0.30, 0.99)
+CALQUENCE
+monotherapy
+N=179
+20 (11.2)
+Obinutuzumab plus
+Chlorambucil
+N=177
+NR (66.5, NR)
+12 (6.8)
+27.8 (22.6, 33.2)
+0.21 (0.15, 0.30)
+30 (16.8)
+28 (15.8)
+0.98 (0.58, 1.64)
+CI=confidence interval; HR=hazard ratio; NR=not reached; PD=progressive disease
+a
+95% confidence interval based on Kaplan-Meier estimation
+b
+Estimate based on stratified Cox-Proportional-Hazards model for Hazard Ratio (95% CI) stratified by 17p deletion status (yes
+vs no)
+Figure 2
+Kaplan-Meier Curve of INV-Assessed PFS in (ELEVATE-TN) Patients with
+CLL (ITT Population)
+Progression Free Survival (%)
+100
+80
+60
+40
+20
+0-
+0
+6
+12
+18
+24
+30
+36
+Time from randomisation (Months)
+CALQUENCE+G
+_ CALQUENCE
+GClb
+H
++----+
+42
+48
+54
+60
+66
+72
+Number of patients at risk
+Months
+0
+3
+6
+9
+12 15 18
+21
+24
+27
+30 33 36 39 42 45
+48
+51
+54 57
+60 63 66
+69
+72
+CALQUENCE
+179 167 163 158 156 155 153 150 149 146 142 141 137 135 133 130 129 124 120 93 63 39 22
+6
+1
+CALQUENCE+G
+GClb
+179 175 170 168 164 163 160 157 156 156 153 152 151 146 144 141 140 138 133 99 65 39 27 7
+177 163 156 153 139 125 110 100 86 82 67 66 56 49 44
+1
+40 38 31 30 20
+13
+8
+7
+2
+0
+Patients with CLL who received at least one prior therapy
+The safety and efficacy of CALQUENCE in relapsed or refractory CLL were evaluated in a
+randomised, multi-centre, open-label phase 3 study (ASCEND) of 310 patients who received at
+least one prior therapy. Patients received CALQUENCE monotherapy or investigator's choice of
+either idelalisib plus rituximab or bendamustine plus rituximab. The trial allowed patients to receive
+antithrombotic agents other than warfarin or equivalent vitamin K antagonists.
+Patients were randomised 1:1 to receive either:
+16 of 24
+•
+•
+CALQUENCE 100 mg twice daily until disease progression or unacceptable toxicity, or
+Investigator's choice:
+Ο
+Ο
+Idelalisib 150 mg twice daily until disease progression or unacceptable toxicity in
+combination with ≤ 8 infusions of rituximab (375 mg/m2/500 mg/m2) on Day 1 of each 28-
+day cycle for up to 6 cycles
+Bendamustine 70 mg/m2 (Day 1 and 2 of each 28-day cycle) in combination with rituximab
+(375 mg/m2/500 mg/m2) on Day 1 of each 28-day cycle for up to 6 cycles
+Patients were stratified by 17p deletion mutation status (presence versus absence), ECOG
+performance status (0 or 1 versus 2) and number of prior therapies (1 to 3 versus ≥ 4). After
+confirmed disease progression, 35 patients randomised on investigator's choice of either idelalisib
+plus rituximab or bendamustine plus rituximab crossed over to CALQUENCE. Table 12
+summarises the baseline demographics and disease characteristics of the study population.
+Table 12
+Characteristic
+Baseline Patient Characteristics in (ASCEND) Patients with CLL
+CALQUENCE
+monotherapy
+N=155
+Investigator's choice of
+idelalisib + rituximab or
+bendamustine + rituximab
+N=155
+Age, years; median (range)
+Male; %
+Caucasian; %
+68 (32-89)
+67 (34-90)
+69.7
+64.5
+93.5
+91.0
+ECOG performance status; %
+0
+1
+2
+37.4
+50.3
+12.3
+35.5
+51.0
+13.5
+Median time from diagnosis (months)
+85.3
+79.0
+Bulky disease with nodes ≥ 5 cm; %
+49.0
+48.4
+Median number of prior CLL therapies (range)
+1 (1-8)
+2 (1-10)
+Number of Prior CLL Therapies; %
+1
+2
+3
+≥4
+52.9
+25.8
+11.0
+10.3
+43.2
+29.7
+15.5
+11.6
+Cytogenetics/FISH Category; %
+17p deletion
+11q deletion
+TP53 mutation
+Unmutated IGHV
+18.1
+25.2
+25.2
+76.1
+13.5
+28.4
+21.9
+80.6
+Complex karyotype (≥3 abnormalities)
+32.3
+29.7
+Rai Stage; %
+0
+I
+II
+III
+IV
+1.3
+2.6
+25.2
+20.6
+31.6
+34.8
+13.5
+11.6
+28.4
+29.7
+17 of 24
+The primary endpoint was PFS as assessed by IRC IWCLL 2008 criteria with incorporation of the
+clarification for treatment-related lymphocytosis (Cheson 2012). With a median follow-up of 16.1
+months, PFS indicated a 69% statistically significant reduction in the risk of death or progression
+for patients in the CALQUENCE Arm. At the time of analysis, median overall survival had not
+been reached in any arm with a total of 33 deaths: 15 (9.7%) in the CALQUENCE monotherapy
+arm and 18 (11.6%) in the investigator's choice of either idelalisib plus rituximab or bendamustine
+plus rituximab arm. Efficacy results are presented in Table 13. The Kaplan-Meier curve for PFS is
+shown in Figure 3.
+Table 13
+Efficacy Results in (ASCEND) Patients with CLL
+CALQUENCE monotherapy
+N=155
+Investigator's choice of
+idelalisib + rituximab or
+bendamustine + rituximab
+N=155
+Progression-Free Survival a
+Number of events (%)
+27 (17.4)
+68 (43.9)
+PD, n (%)
+19 (12.3)
+59 (38.1)
+Death events (%)
+8 (5.2)
+9 (5.8)
+Median (95% CI), months
+NR
+HRb (95% CI)
+0.31 (0.20, 0.49)
+< 0.0001
+82.6 (75.0, 88.1)
+16.5 (14.0, 17.1)
+54.9 (45.4, 63.5)
+117 (75.5)
+(68.1, 81.6)
+P-value
+15 months estimate, % (95% CI)
+Overall Response Rate ª (CR + CRi + nPR + PR)
+ORR, n (%)
+126 (81.3)
+(95% CI)
+(74.4, 86.6)
+0.2248
+P-value
+0
+CR, n (%)
+PR, n (%)
+126 (81.3)
+2 (1.3)
+115 (74.2)
+PRL, n (%)
+11 (7.1)
+3 (1.9)
+SD, n (%)
+9 (5.8)
+12 (7.7)
+PD, n (%)
+2 (1.3)
+1 (0.6)
+Unknown, n (%)
+7 (4.5)
+22 (14.2)
+Duration of Response (DoR)
+Median (95% CI), months
+NR
+13.6 (11.9, NR)
+CI=confidence interval; HR=hazard ratio; NR=not reached; CR=complete response; PR=partial response; PRL=PR with
+lymphocytosis; SD=stable disease; PD-progressive disease
+a
+Per IRC assessment
+b
+Based on stratified Cox-Proportional-Hazards model
+18 of 24
+Figure 3
+Progression Free Survival (%)
+100
+80
+60-
+40-
+20
+Kaplan-Meier Curve of IRC-Assessed PFS in (ASCEND) Patients with CLL
+(ITT Population)
+CALQUENCE
++
+Investigator's Choice
+0
+1
+2
+3
+4
+5
+6
+7
+9 10 11
+12 13
+14
+15
+16
+17 18
+19
+20
+21
+22 23
+Time from Randomization (months)
+Number of patients at rick
+Month
+0
+1
+2
+3
+4
+5
+6
+7
+CALQUENCE
+9 10 11 12 13 14
+155 153 153 149 147 146 145 143 143 139 139 137 118 116 73 61
+15 16 17 18
+Investigator's
+Choice
+155 150 150 146 144 142 136 130 129 112 105 101 $2 77 56
+44 39
+19 20 21 22 23
+60 25 21 21 1 1 1 0
+18 10 $ 0
+At the final analysis, with a median follow-up of 46.5 months for CALQUENCE and 45.3 months
+for the IR/BR, 72% reduction in risk of investigator-assessed disease progression or death was
+observed for patients in the CALQUENCE arm. The median investigator-assessed PFS was not
+reached in CALQUENCE and was 16.8 months in IR/BR. The median investigator-assessed PFS in
+patients with 17p deletion per IWCLL criteria was not reached in CALQUENCE arm and was 13.8
+months in IR/BR arm.
+At the time of final analysis, median overall survival had not been reached in any arm with a total of
+95 deaths: 41 (26.5%) in the CALQUENCE monotherapy arm and 54 (34.8%) in the IR/BR arm.
+Table 14
+Efficacy results at final analysis per INV assessments in (ASCEND) patients
+with CLL
+CALQUENCE monotherapy
+N=155
+Investigator's choice of idelalisib +
+rituximab or bendamustine +
+rituximab
+N=155
+Progression-free survival a
+Number of events (%)
+PD, n (%)
+Death events (%)
+Median (95% CI), months
+HR (95% CI)
+Overall survival b
+C
+Death events (%)
+HR (95% CI)
+62 (40.0)
+43 (27.7)
+19 (12.3)
+NR
+41 (26.5)
+0.69 (0.46, 1.04)
+0.28 (0.20, 0.38)
+119 (76.8)
+102 (65.8)
+17 (11.0)
+16.8 (14.1, 22.5)
+54 (34.8%)
+19 of 24
+CI=confidence interval; HR=hazard ratio; NR=not reached; PD=progressive disease
+Per INV assessment
+Median OS not reached for both arms P=0.0783 for OS.
+Based on stratified Cox-Proportional-Hazards model
+Figure 4
+Kaplan-Meier Curve of INV-Assessed PFS in (ASCEND) Patients with CLL
+(ITT Population)
+Progression-Free Survival (%)
+100
+80
+60-
+40-
+20-
+0-
+0 3 6
+9
+Calquence
+Investigator's Choice
+12 15 18 21 24 27 30 33 36 39 42 45 48 51 54
+Number of patients at risk
+Months
+0
+3
+6
+9 12
+155 151 143 139 133
+15 18
+128 121
+66
+Calquence
+Investigator's 155 147 138 118 95 76
+Choice
+Months
+21
+117 111 110 100 94 85 80 79 52 21
+62 52 42 35 32 28 26 23 12 5
+24 27 30 33 36 39 42 45 48 51
+54
+4
+0
+0
+Investigator assessed PFS results for CALQUENCE at final analysis were consistent across
+subgroups, including high risk features and were consistent with the primary analysis.
+5.2
+PHARMACOKINETIC PROPERTIES
+The pharmacokinetics (PK) of acalabrutinib and its active metabolite, ACP-5862 were studied in
+healthy subjects and patients with B-cell malignancies. Acalabrutinib exhibits dose-proportionality,
+and both acalabrutinib and ACP-5862 exhibit almost linear PK across a dose range of 75 to 250 mg
+(0.75 to 2.5 times the approved recommended single dose). Population PK modelling suggests that
+the PK of acalabrutinib and ACP-5862 does not differ significantly in patients with different B-cell
+malignancies. At the recommended dose of 100 mg twice daily in patients with B-cell malignancies
+(including CLL), the geometric mean steady state daily area under the plasma drug concentration
+over time curve (AUC24h) and maximum plasma concentration (Cmax) of acalabrutinib were 1893
+20 of 24
+ng.h/mL and 466 ng/mL, respectively, and for ACP-5862 were 4091 ng•h/mL and 420 ng/mL,
+respectively.
+Absorption
+The median time to peak plasma concentrations (Tmax) was 0.75 hours for CALQUENCE, and 1.0
+hour for ACP-5862. The absolute bioavailability of CALQUENCE was 25%.
+Distribution
+Reversible binding to human plasma protein was 97.5% for acalabrutinib and 98.6% for ACP-5862.
+The in vitro mean blood-to-plasma ratio was 0.8 for acalabrutinib and 0.7 for ACP-5862. The mean
+steady-state volume of distribution (Vss) was approximately 34 L for acalabrutinib.
+Metabolism
+In vitro, acalabrutinib is predominantly metabolised by CYP3A enzymes, and to a minor extent by
+glutathione conjugation and amide hydrolysis. ACP-5862 was identified as the major metabolite in
+plasma with a geometric mean exposure (AUC) that was approximately 2- to 3-fold higher than the
+exposure of acalabrutinib. ACP-5862 is approximately 50% less potent than acalabrutinib with
+regard to BTK inhibition.
+Acalabrutinib may inhibit intestinal BCRP substrates (see Section 4.5 Interactions with other
+medicines and other forms of interactions), while ACP-5862 may inhibit MATE1 (see Section 4.5
+Interactions with other medicines and other forms of interactions) at clinically relevant
+concentrations. Acalabrutinib does not inhibit MATE1, while ACP-5862 does not inhibit BCRP at
+clinically relevant concentrations.
+Excretion
+Following a single oral dose of 100 mg acalabrutinib, the median terminal elimination half-life (t½)
+of acalabrutinib was 0.9 (range: 0.6 to 2.8) hours. The median t½ of the active metabolite, ACP-
+5862, was 6.9 hours (range: 2.7 to 9.1) hours.
+The mean apparent oral clearance (CL/F) was 70 L/hr for acalabrutinib and 13 L/hr for ACP-5862,
+with similar PK between patients and healthy subjects, based on population PK analysis.
+Following administration of a single 100 mg radiolabelled [14C]-acalabrutinib dose in healthy
+subjects, 84% of the dose was recovered in the faeces and 12% of the dose was recovered in the
+urine, with less than 2% of the dose excreted as unchanged acalabrutinib in urine and faeces.
+Specific populations
+Age, race, and body weight
+Age (32 to 90 years), sex, race (Caucasian, African American), and body weight (40 to 149 kg) did
+not have clinically meaningful effects on the PK of acalabrutinib and its active metabolite, ACP-
+5862, based on population PK analysis.
+Renal impairment
+Acalabrutinib undergoes minimal renal elimination. Based on population PK analysis, no clinically
+relevant PK difference was observed in 543 patients with mild or moderate renal impairment (eGFR
+≥30 mL/min/1.73 m², as estimated by MDRD (modification of diet in renal disease equation)).
+Acalabrutinib PK has not been evaluated in patients with severe renal impairment (eGFR
+<29 mL/min/1.73 m², MDRD) or renal impairment requiring dialysis.
+21 of 24
+Hepatic impairment
+Acalabrutinib is metabolised in the liver. In hepatic impairment studies, compared to subjects with
+normal liver function (n=6), acalabrutinib exposure (AUC) was increased by 1.9-fold, 1.5-fold, and
+5.3-fold in subjects with mild (n=6) (Child-Pugh A), moderate (n=6) (Child-Pugh B) and severe
+(n=8) (Child-Pugh C) hepatic impairment, respectively. Based on a population PK analysis, no
+clinically relevant PK difference was observed in subjects with mild (n=79) or moderate (n=6)
+hepatic impairment (total bilirubin between 1.5 to 3 times the upper limit of normal [ULN] and any
+AST) relative to subjects with normal (n=651) hepatic function (total bilirubin and AST within
+ULN).
+Drug interaction studies
+Effect of CYP3A inhibitors on acalabrutinib
+Co-administration with a strong CYP3A inhibitor (200 mg itraconazole once daily for 5 days)
+increased the acalabrutinib Cmax by 3.9-fold and AUC by 5.1-fold in healthy subjects.
+Physiologically based pharmacokinetic (PBPK) simulations with acalabrutinib and moderate
+CYP3A inhibitors (erythromycin, fluconazole, diltiazem) showed that co-administration increased
+acalabrutinib Cmax and AUC increased by 2- to almost 3-fold (see Section 4.5 Interactions with
+other medicines and other forms of interactions).
+Effect of CYP3A inducers on acalabrutinib
+Co-administration with a strong CYP3A inducer (600 mg rifampin once daily for 9 days) decreased
+acalabrutinib Cmax by 68% and AUC by 77% in healthy subjects (see Section 4.5 Interactions with
+other medicines and other forms of interactions).
+Gastric acid reducing medicines
+Acalabrutinib solubility decreases with increasing pH. Co-administration with an antacid (1 g
+calcium carbonate) decreased acalabrutinib AUC by 53% in healthy subjects. Co-administration
+with a proton pump inhibitor (40 mg omeprazole for 5 days) decreased acalabrutinib AUC by 43%
+(see Section 4.5 Interactions with other medicines and other forms of interactions).
+5.3
+PRECLINICAL SAFETY DATA
+Genotoxicity
+Acalabrutinib was not mutagenic in an in vitro bacterial reverse mutation (AMES) assay or
+clastogenic in an in vitro human lymphocyte chromosomal aberration assay or in an in vivo rat bone
+marrow micronucleus assay.
+Carcinogenicity
+Carcinogenicity studies have not been conducted with acalabrutinib.
+6
+6.1
+PHARMACEUTICAL PARTICULARS
+LIST OF EXCIPIENTS
+Capsule content: silicified microcrystalline cellulose, pregelatinised starch, magnesium stearate
+(E572), and sodium starch glycollate Type A.
+Capsule: Shell: gelatin, titanium dioxide (E171), iron oxide yellow (E172) and indigo carmine
+aluminium lake (E132); Ink: shellac, iron oxide black (E172) and propylene glycol.
+22 of 24
+6.2
+INCOMPATIBILITIES
+Incompatibilities were either not assessed or not identified as part of the registration of this
+medicine.
+6.3
+SHELF LIFE
+In Australia, information on the shelf life can be found on the public summary of the Australian
+Register of Therapeutic Goods (ARTG). The expiry date can be found on the packaging.
+6.4
+SPECIAL PRECAUTIONS FOR STORAGE
+Store below 30°C.
+6.5
+NATURE AND CONTENTS OF CONTAINER
+Polyamide-aluminium-polyvinylchloride/aluminium blisters. Cartons of 56 capsules
+6.6
+SPECIAL PRECAUTIONS FOR DISPOSAL
+In Australia, any unused medicine or waste material should be disposed of by taking to your local
+pharmacy.
+6.7
+PHYSICOCHEMICAL PROPERTIES
+Chemical structure
+Figure 5
+Chemical structure of acalabrutinib
+N
+Ο
+NH
+NH2
+N
+N
+N.
+Ο
+(S)
+N
+CAS number
+CAS 1420477-60-6
+7
+MEDICINE SCHEDULE (POISONS STANDARD)
+Prescription only medicine (Schedule 4)
+23 of 24
+8
+SPONSOR
+AstraZeneca Pty Ltd
+ABN 54 009 682 311
+66 Talavera Road
+MACQUARIE PARK NSW 2113
+Telephone: 1800 805 342
+9
+DATE OF FIRST APPROVAL
+21 November 2019
+10
+DATE OF REVISION
+28 April 2026
+SUMMARY TABLE OF CHANGES
+Section
+Summary of new information
+changed
+Removal of black triangle statement and the relapsed / refractory Mantle Cell Lymphoma indication
+and associated texts
+3
+Additional clarification text added for capsule formulation, and to direct readers to the CALQUENCE
+tablets PI for information on usage in the treatment of mantle cell lymphoma
+4.4
+Update to include warnings on cardiac arrhythmia, hepatotoxicity and drug-induced liver injury
+4.8
+Addition of post-marketing experience for cardiac and hepatobiliary disorders
+CALQUENCE is a registered trade mark of the AstraZeneca group of companies.
+AstraZeneca, 2026
+VV-RIM-01436838 v 7.0
+24 of 24

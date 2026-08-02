@@ -1,0 +1,384 @@
+AUSTRALIAN PRODUCT INFORMATION – DIAMOX (ACETAZOLAMIDE)
+TABLETS
+1 NAME OF THE MEDICINE
+Acetazolamide.
+2 QUALITATIVE AND QUANTITATIVE COMPOSITION
+DIAMOX tablets contain 250mg acetazolamide.
+For the full list of excipients, see Section 6.1 List of excipients.
+3 PHARMACEUTICAL FORM
+DIAMOX tablets are white, round, convex tablet, one side plain, the other side scored into quarters.
+4 CLINICAL PARTICULARS
+4.1 THERAPEUTIC INDICATIONS
+For adjunctive treatment of: oedema due to congestive heart failure; drug-induced oedema;
+centrencephalic epilepsies (petit mal, unlocalized seizures); chronic simple (open-angle) glaucoma,
+secondary glaucoma and preoperatively in acute angle-closure glaucoma where delay of surgery is
+desired in order to lower intraocular pressure.
+4.2 DOSE AND METHOD OF ADMINISTRATION
+Glaucoma
+DIAMOX should be used as an adjunct to the usual therapy. The dosage employed in the treatment
+of chronic simple (open-angle) glaucoma ranges from 250 mg to 1 g per 24 hours, usually in divided
+doses for amounts over 250 mg. It has usually been found that a dosage in excess of 2 g per 24
+hours does not produce an increased effect. In all cases, the dosage should be adjusted with careful
+individual attention both to symptomatology and ocular tension. Continuous supervision by a
+physician is advisable.
+In treatment of secondary glaucoma and in the preoperative treatment of some cases of acute
+congestive (closed-angle) glaucoma, the preferred dosage is 250 mg every 4 hours, although some
+cases have responded to 250 mg twice daily on short-term therapy. In some acute cases, it may be
+more satisfactory to administer an initial dose of 500 mg followed by 125 or 250 mg every 4 hours
+depending on the individual case. Intravenous therapy may be used for rapid relief of ocular tension
+in acute cases. A complementary effect has been noted when DIAMOX has been used in conjunction
+with miotics or mydriatics as the case demanded.
+1
+Epilepsy
+It is not clearly known whether the beneficial effects observed in epilepsy are due to direct inhibition
+of carbonic anhydrase in the central nervous system or whether they are due to the slight degree of
+acidosis produced by the divided dosage. The best results to date have been seen in petit mal in
+children. Good results, however, have been seen in both adult and paediatric patients, in other
+types of seizures such as grand mal, mixed seizure patterns, myoclonic jerk pattern etc.
+The recommended dose in paediatric patients is 8-30 mg/kg daily in divided doses not to exceed 750
+mg/day. In adults the recommended dose is 250-1000 mg daily in divided doses. When DIAMOX is
+given in combination with any other anticonvulsant, it is suggested that the starting dose should be
+250 mg once daily in addition to the existing medication. This can be increased to the levels
+indicated above. The change from other medication to DIAMOX should be gradual in accordance
+with usual practice in epilepsy therapy.
+Congestive Heart Failure
+For diuresis in congestive heart failure, the starting dose is usually 250 to 375 mg once daily in the
+morning (5 mg/kg). If after an initial response, the patient fails to continue to lose oedema fluid, do
+not increase the dose but allow for kidney recovery by omitting medication for a day. DIAMOX
+yields best diuretic results when given on alternate days, or for 2 days alternating with a day of rest.
+Failures in therapy may be due to overdosage or too frequent dosage. The use of DIAMOX does not
+eliminate the need for other therapy such as digitalis, bed rest and salt restriction.
+Drug-Induced Oedema
+Recommended dosage is 250 to 375 mg (5 mg/kg) once daily for 1 to 2 days, alternating with a day
+of rest.
+Note: The dosage recommendations for glaucoma and epilepsy differ considerably from those for
+congestive heart failure, since the first two conditions are not dependent upon carbonic anhydrase
+inhibition in the kidney which requires intermittent dosage if it is to recover from the inhibitory
+effect of the therapeutic agent.
+Use in Patients with Renal Impairment
+Acetazolamide is contraindicated in patients with a glomerular filtration rate (GFR) of <10mL/min
+(see Section 4.3 contraindications). In patients with renal impairment, GFR of >10mL/min, the dose
+should be reduced by half or the dosage interval should be increased to every 12 hours.
+4.3 CONTRAINDICATIONS
+Acetazolamide is contraindicated in the presence of:
+•
+hyperchloraemic acidosis
+•
+hypokalaemia
+•
+hyponatraemia
+•
+suprarenal gland failure
+•
+impairment of renal function, GFR < 10mL/min
+2
+•
+•
+•
+hypersensitivity to acetazolamide, sulfonamides, or sulfonamide derivatives, or any
+excipients in the formulation. Cross sensitivity between acetazolamide, sulfonamides and
+other sulfonamide derivatives is possible.
+marked liver disease or impairment of liver function, including cirrhosis because of the risk
+of development of hepatic encephalopathy. Acetazolamide decreases ammonia clearance.
+Severe glaucoma due to peripheral anterior synechias or in haemorrhagic glaucoma.
+Long-term administration in patients with chronic noncongestive angle-closure glaucoma since it
+may permit organic closure of the angle to occur while the worsening glaucoma is masked by
+lowered intraocular pressure.
+4.4 SPECIAL WARNINGS AND PRECAUTIONS FOR USE
+General
+Increasing the dose does not increase the diuresis and may increase the incidence of drowsiness
+and/or paraesthesia. Increasing the dose often results in a decrease in diuresis. Under certain
+circumstances however, very large doses have been given in conjunction with other diuretics in
+order to secure diuresis in complete refractory failure.
+There have been reports of increased muscular weakness, occasionally severe, in patients with
+hyperkalaemic periodic paralysis who have taken acetazolamide.
+When Acetazolamide tablets is prescribed for long-term therapy, special precautions are advisable.
+The patient should be cautioned to report any unusual skin rash. Periodic blood cell counts and
+electrolyte levels are recommended. Fatalities have occurred, although rarely, due to severe
+reactions to sulphonamides. A precipitous drop in formed blood cell elements or the appearance of
+toxic skin manifestations should call for immediate cessation of Acetazolamide tablets therapy.
+For acute respiratory distress syndrome and pulmonary oedema, if rapidly progressive dyspnoea,
+hypoxaemia, or chest X-ray abnormalities such as diffuse infiltrative shadow in both lungs are
+observed, administration of this drug should be discontinued, and appropriate measures should be
+taken. The frequency of these adverse reactions are not known.
+Nervous
+Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in
+several indications. A meta-analysis of randomised placebo controlled trials of anti-epileptic drugs
+has also shown a small increased risk of suicidal ideation and behaviour. The mechanism of this risk
+is not known and the available data do not exclude the possibility of an increased risk.
+Therefore patients should be monitored for signs of suicidal ideation and behaviours and
+appropriate treatment should be considered. Patients (and caregivers of patients) should be advised
+to seek medical advice should signs of suicidal ideation and behaviour emerge.
+Hypersensitivity
+Fatalities have occurred, due to severe reactions to sulfonamides and sulphonamide derivatives,
+including acetazolamide. Adverse reactions common to all sulfonamide derivatives may occur:
+3
+fever, rash (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis),
+fulminant hepatic necrosis, agranulocytosis, aplastic anaemia and other blood dyscrasias,
+anaphylaxis, renal and ureteral colic and renal lesions (see also Section 4.8 Adverse effects
+(undesirable effects)).
+Serious and occasionally fatal hypersensitivity (anaphylactic/anaphylactoid [including shock])
+reactions have been reported in patients receiving acetazolamide.
+The occurrence at the treatment initiation of a feverish generalized erythema associated with
+pustula may be a symptom of acute generalised exanthematous pustulosis (AGEP) (see section 4.8
+Adverse effects (undesirable effects)). In case of AGEP diagnosis, acetazolamide should be
+discontinued and any subsequent administration of acetazolamide contraindicated.
+Hypersensitivity reactions may recur if a sulfonamide or sulfonamide derivative is re-administered,
+irrespective of the route of administration. The drug should be discontinued and appropriate
+therapy instituted if such reactions are detected.
+Choroidal effusion/detachment
+Cases of choroidal effusion/detachment have been reported after the use of acetazolamide.
+Symptoms include acute onset of decreased visual acuity, blurred vision or ocular pain and can occur
+within hours to weeks after initiation of acetazolamide treatment. If choroidal effusion/detachment
+is suspected, acetazolamide should be discontinued as rapidly as possible. Obtain appropriate
+medical evaluation immediately and consider treatment of elevated intraocular pressure.
+Haematological reactions
+To monitor for haematological reactions common to all sulfonamides, it is recommended that a
+baseline complete blood count (CBC), platelet count and electrolyte levels be obtained on patients
+prior to initiating DIAMOX therapy and at regular intervals during therapy. If significant changes or
+toxic skin manifestations occur, early discontinuation and institution of appropriate therapy are
+important.
+Glucose metabolism
+Both increases and decreases in blood glucose levels have been described in patients treated with
+acetazolamide. This should be taken into consideration in patients with impaired glucose tolerance
+or diabetes mellitus.
+Acid/base and electrolyte balance
+Acetazolamide treatment may cause electrolyte imbalances, including hyponatraemia and
+hypokalaemia, as well as metabolic acidosis. Therefore, periodic monitoring of serum electrolytes is
+recommended. Particular caution is recommended in patients with conditions that are associated
+with, or predisposed to, electrolyte and acid/base imbalance, such as patients with impaired renal
+function, including elderly patients; (see Section 4.3 Contraindications, Section 4.4 Special warnings
+and precautions for use – Use in the Elderly and Section 4.2 Dose and method of administration),
+patients with diabetes mellitus, and patients with impaired alveolar ventilation (such as patients
+with pulmonary obstruction or emphysema). DIAMOX tablets may aggravate acidosis and should be
+used with caution.
+4
+Non-cardiogenic pulmonary oedema
+Severe cases of non-cardiogenic pulmonary oedema have been reported after taking acetazolamide,
+also after a single dose (see Section 4.8). Non-cardiogenic pulmonary oedema typically developed
+within minutes to hours after acetazolamide intake. Symptoms included dyspnoea, hypoxia, and
+respiratory insufficiency. If non-cardiogenic pulmonary oedema is suspected, acetazolamide should
+be withdrawn, and supportive treatment should be given. Acetazolamide should not be
+administered to patients who previously experienced non-cardiogenic pulmonary oedema following
+acetazolamide intake.
+Use in renal impairment
+In patients with past history of renal calculi, benefit should be balanced against the risks of
+precipitating further calculi
+Use in the elderly
+Metabolic acidosis, which can be severe, may occur in the elderly with reduced renal function (see
+Section 4.3 Contraindications, Section 4.4 Special warnings and precautions for use - Acid/base
+and Electrolyte balance and Section 4.2 Dose and method of administration).
+Paediatric use
+The safety and effectiveness of acetazolamide in paediatric patients have not been established.
+Growth retardation has been reported in children receiving long-term therapy, believed secondary
+to chronic acidosis. (See Section 4.2 Dose and method of administration)
+Effects on laboratory tests
+Sulfonamides may give false negative or decreased values for urinary phenolsulfonphthalein and
+phenol red elimination values for urinary protein, serum non-protein nitrogen and for serum uric
+acid. Acetazolamide may produce an increased level of crystals in the urine.
+Acetazolamide interferes with the HPLC method of assay for theophylline. Interference with the
+theophylline assay by acetazolamide depends on the solvent used in the extraction; acetazolamide
+may not interfere with other assay methods for theophylline.
+4.5 INTERACTIONS WITH OTHER MEDICINES AND OTHER FORMS OF INTERACTIONS
+Amphetamines: By increasing the pH of renal tubular urine, acetazolamide reduces the urinary
+excretion of amphetamine and so may enhance the magnitude and duration of the effect of
+amphetamines.
+Carbonic Anhydrase Inhibitors: Because of possible additive effects with other carbonic anhydrase
+inhibitors, concomitant use is not advisable.
+Ciclosporin: When given concomitantly, acetazolamide may elevate cyclosporin blood levels.
+Caution is advised when administering acetazolamide in patients receiving cyclosporin.
+Folic Acid Antagonists: Acetazolamide may potentiate the effects of other folic acid antagonists.
+5
+Hypoglycaemics Agents: Both increases and decreases in blood glucose levels have been described in
+patients treated with acetazolamide. This should be taken into consideration in patients with
+impaired glucose tolerance or diabetes mellitus treated with antidiabetic agents.
+Lithium: Acetazolamide increases lithium excretion due to impaired reabsorption of lithium in the
+proximal tubule. The effect of lithium carbonate may be decreased.
+Methenamine compounds: By increasing the pH of urine, acetazolamide may prevent the urinary
+antiseptic effect of methenamine compounds.
+Phenytoin: When given concomitantly, acetazolamide modifies the metabolism of phenytoin, leading
+to increased serum levels of phenytoin. Acetazolamide may increase the occurrence, or accelerate
+the manifestation of osteomalacia in some patients receiving chronic phenytoin therapy. Caution is
+advised in patients receiving chronic concomitant therapy.
+Primidone: By decreasing the gastrointestinal absorption of primidone, acetazolamide may decrease
+serum concentrations of primidone and its metabolites, with a consequent possible decrease in
+anticonvulsant effect. Caution is advised when beginning, discontinuing, or changing the dose of
+acetazolamide in patients receiving primidone. There have been isolated reports of increased
+carbamazepine serum levels with concurrent administration of acetazolamide.
+Quinidine: By increasing the pH of renal tubular urine, acetazolamide reduces the urinary excretion
+of quinidine and so may enhance the effect of quinidine.
+Salicylates: Caution is advised for patients receiving concomitant aspirin and acetazolamide, as
+severe toxicity has been reported. Severe metabolic acidosis has been reported in patients with
+normal renal function during treatment with acetazolamide and salicylates. Pharmacokinetic studies
+showed that the plasma protein binding and renal clearance of acetazolamide were significantly
+reduced during chronic salicylate therapy. Salicylate appears to competitively inhibit plasma protein
+binding of acetazolamide and simultaneously to inhibit acetazolamide renal secretion that may
+produce serious metabolic acidosis. Systemic acidosis produced by acetazolamide may increase
+salicylate toxicity by enhancing salicylate tissue penetration.
+Precaution is advised for patients receiving concomitant high-dose aspirin and DIAMOX as anorexia,
+tachypnoea, lethargy and coma have been reported due to a possible drug interaction. (See Section
+4.4 Special warnings and precautions for use). Concomitant administration with high-dose aspirin
+may potentiate the adverse reactions of DIAMOX.
+Sodium Bicarbonate: The use of concurrent sodium bicarbonate therapy enhances the risk of renal
+calculus formation in patients taking acetazolamide.
+Cardiovascular Agents: Potentiation of the effects of oral anticoagulants is possible when
+administered with Diamox, and may warrant a reduction in the dose of the anticoagulant.
+Adjustment of dose may be required when DIAMOX is given with cardiac glycosides or
+antihypertensive agents.
+6
+4.6 FERTILITY, PREGNANCY AND LACTATION
+Effects on fertility
+The potential adverse effects of acetazolamide on fertility and general reproductive performance
+have not been adequately assessed in animals.
+Use in pregnancy – Pregnancy Category B3
+Acetazolamide, administered orally or parenterally, has been shown to be teratogenic (defects of
+the limbs) and embryotoxic in mice, rats, hamsters and rabbits, at oral or parenteral doses in excess
+of ten times those recommended in human beings. There are no adequate and well-controlled
+studies in pregnant women.
+As there are no adequate and well-controlled studies in pregnant women, DIAMOX should not be
+used in pregnancy, especially during the first trimester.
+Use in lactation.
+DIAMOX has been detected in low levels in the milk of lactating women who have taken DIAMOΧ.
+Therefore the potential exists for adverse reactions in the infant. Extreme caution should be utilized
+when DIAMOΧ is administered to lactating women.
+4.7 EFFECTS ON ABILITY TO DRIVE AND USE MACHINES
+Some adverse reactions to acetazolamide, such as drowsiness, dizziness, ataxia, fatigue and myopia,
+may impair the ability to drive and operate machinery.
+4.8 ADVERSE EFFECTS (UNDESIRABLE EFFECTS)
+Body as a whole
+Headaches, malaise, fatigue, pain at injection site, fever, growth retardation in children, flaccid
+paralysis, flushing and anaphylactic/anaphylactoid reactions, including shock and fatalities
+Digestive
+Gastrointestinal disturbances such as nausea, vomiting and diarrhoea
+Haematological/Lymphatic
+Blood dyscrasias such as aplastic anaemia, agranulocytosis, leukopenia, thrombocytopenia,
+thrombocytopenic purpura, bone marrow depression and pancytopenia.
+Metabolic/Nutritional
+Metabolic acidosis and electrolyte imbalance, including hypokalaemia, hyponatraemia, osteomalacia
+with long-term therapy, loss of appetite, taste alteration, hyper/hypoglycaemia. During long-term
+therapy, metabolic acidosis and hypokalaemia may occur. This can usually be corrected by the
+administration of bicarbonate and/or potassium.
+7
+Nervous
+Drowsiness, paraesthesia, involving numbness and tingling of extremities and face, depression,
+excitement, ataxia, reduced libido, confusion, convulsions, dizziness, irritability.
+Skin
+Allergic skin reactions, including urticaria, photosensitivity, Erythema multiforme, Stevens-Johnson
+syndrome and toxic epidermal necrolysis. Thrombocytic purpura and acute generalised
+exanthematous pustulosis (AGEP).
+Special Senses
+Hearing disturbances, tinnitus, myopia. Transient myopia is rare and invariably subsides upon
+diminution or discontinuation of the medication. Choroidal effusion, choroidal detachment.
+Urogenital
+Crystalluria, increased risk of nephrolithiasis with long-term therapy, haematuria, Renal and ureteral
+coli, renal lesions, calculus formation, abnormal liver function including fulminant hepatic necrosis,
+hepatitis or cholestatic jaundice, glycosuria, renal failure.
+The following adverse events have also been reported: polyuria, polydipsia, thirst, melaena, hepatic
+insufficiency and photosensitivity.
+Respiratory, thoracic and mediastinal disorders
+Non-cardiogenic pulmonary oedema
+Reporting suspected adverse effects
+Reporting suspected adverse reactions after registration of the medicinal product is important. It
+allows continued monitoring of the benefit-risk balance of the medicinal product. Healthcare
+professionals are asked to report any suspected adverse reactions at www.tga.gov.au/reporting-
+problems.
+4.9 OVERDOSE
+No specific antidote. Supportive measures with correction of electrolyte and fluid balance. Force
+fluids. Serum electrolyte levels (particularly potassium) and blood pH levels should be monitored.
+Acetazolamide is dialyzable.
+For information on the management of overdose, contact the Poisons Information Centre on
+13 11 26 (Australia).
+5 PHARMACOLOGICAL PROPERTIES
+5.1 PHARMACODYNAMIC PROPERTIES
+Mechanism of action
+DIAMOX (acetazolamide) is a carbonic anhydrase inhibitor.
+8
+DIAMOX is a nonbacteriostatic sulfonamide possessing a chemical structure and pharmacological
+activity distinctly different from the bacteriostatic sulfonamides.
+DIAMOX is an enzyme inhibitor that acts specifically on carbonic anhydrase, the enzyme that
+catalyses the reversible reaction involving the hydration of carbon dioxide and the dehydration of
+carbonic acid. In the eye this inhibitory action of acetazolamide decreases the secretion of aqueous
+humour and results in a drop in intraocular pressure, a reaction considered desirable in cases of
+glaucoma and even in certain nonglaucomatous conditions. Evidence seems to indicate that
+DIAMOX has utility as an adjuvant in the treatment of certain dysfunctions of the central nervous
+system (e.g. epilepsy). Inhibition of carbonic anhydrase in this area appears to retard abnormal,
+paroxysmal, excessive discharge from central nervous system neurons. The diuretic effect of
+DIAMOX is due to its action in the kidney on the reversible reaction involving hydration of carbon
+dioxide and dehydration of carbonic acid. The result is renal loss of HCO3 ions, that carry out
+sodium, water and potassium. Alkalinization of the urine and promotion of diuresis are thus
+effected. Alteration in ammonia metabolism occurs due to increased reabsorption of ammonia by
+the renal tubules as a result of urinary alkalinisation.
+Clinical trials
+No data available.
+5.2 PHARMACOKINETIC PROPERTIES
+Absorption
+No data available.
+Distribution
+No data available.
+Metabolism
+No data available.
+Excretion
+No data available.
+5.3 PRECLINICAL SAFETY DATA
+Genotoxicity
+The genotoxic potential of acetazolamide has not been adequately assessed, although in a bacterial
+mutagenicity assay, it was found to be negative.
+Carcinogenicity
+Long term animal studies have not been conducted to investigate the carcinogenic potential of
+acetazolamide.
+9
+6 PHARMACEUTICAL PARTICULARS
+6.1 LIST OF EXCIPIENTS
+DIAMOX tablets contain the following excipients: sodium starch glycollate, povidone, calcium
+hydrogen phosphate dihydrate, maize starch and magnesium stearate.
+6.2 INCOMPATIBILITIES
+Incompatibilities were either not assessed or not identified as part of the registration of this
+medicine.
+6.3 SHELF LIFE
+In Australia, information on the shelf life can be found on the public summary of the Australian
+Register of Therapeutic Goods (ARTG). The expiry date can be found on the packaging.
+6.4 SPECIAL PRECAUTIONS FOR STORAGE
+Store below 30°C.
+6.5 NATURE AND CONTENTS OF CONTAINER
+DIAMOX tablets are available in bottles (HDPE material) containing 100 tablets or 250* tablets.
+* Not currently marketed in Australia
+6.6 SPECIAL PRECAUTIONS FOR DISPOSAL
+In Australia, any unused medicine or waste material should be disposed of by taking to your local
+pharmacy.
+6.7 PHYSICOCHEMICAL PROPERTIES
+Acetazolamide is a white to yellowish-white crystalline substance, sparingly soluble in cold water
+with a mp of 258-259°C, a weak acid and a pKa of 7.2, .
+Chemical structure
+Acetazolamide is N-(5-sulphamoyl-1,3,4-thiadiazole-2-yl acetamide and its structural formula is:
+H3C
+HN
+S
+S
+NH2
+N
+N
+C4H6N4O3S2
+Molecular weight of 222.25
+CAS number
+CAS No. 59-6-5
+10
+7 MEDICINE SCHEDULE (POISONS STANDARD)
+S4 (Prescription Only Medicine)
+8 SPONSOR
+Arrotex Pharmaceuticals Pty Ltd
+15-17 Chapel Street
+Cremorne VIC 3121
+Australia
+www.arrotex.com.au
+9 DATE OF FIRST APPROVAL
+9 September 1991
+10 DATE OF REVISION
+28 November 2025
+SUMMARY TABLE OF CHANGES
+Section Changed
+4.4
+4.7
+Summary of new information
+Update to Precautions section.
+Update to effects on ability to drive and use machines (dizziness, ataxia)
+11

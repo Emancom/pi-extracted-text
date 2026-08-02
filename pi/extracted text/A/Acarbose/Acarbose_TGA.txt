@@ -1,0 +1,518 @@
+AUSTRALIAN PRODUCT INFORMATION
+ACARBOSE VIATRIS (ACARBOSE) TABLETS
+1 NAME OF THE MEDICINE
+Acarbose
+2 QUALITATIVE AND QUANTITATIVE COMPOSITION
+Each tablet contains 50mg or 100mg acarbose.
+For the full list of excipients, see section 6.1 List of excipients.
+3 PHARMACEUTICAL FORM
+ACARBOSE VIATRIS 50 mg are round, biconvex, white to off-white tablets, marked with "ACA 50" on
+one side.
+ACARBOSE VIATRIS 100 mg are round, biconvex, white to off-white tablets, marked with a score on
+one side, and "ACA 100" on the reverse side.
+4 CLINICAL PARTICULARS
+4.1 THERAPEUTIC INDICATIONS
+As an adjunct to prescribed diet and exercise for the management of blood glucose concentrations
+in non-insulin dependent diabetic patients who are inadequately controlled by diet alone or by diet
+and oral hypoglycaemic agents.
+4.2 DOSE AND METHOD OF ADMINISTRATION
+Since the activity and the tolerability of acarbose varies from individual to individual, the optimal
+dosage must be individualised.
+ACARBOSE VIATRIS should be swallowed whole with a little liquid directly before a meal or chewed
+with the first few mouthfuls of the meal.
+In adults, ACARBOSE VIATRIS should be started at a low initial dose and be increased slowly to
+minimise the gastrointestinal side effects. Treatment is usually commenced at 50 mg once daily for
+the first week, 50 mg twice daily for the second week and 50 mg three times a day for the third
+week. A further increase of the dose may be necessary after 4 - 8 weeks on the basis of the blood
+glucose level. The average adult dose is 100 mg ACARBOSE VIATRIS three times daily. A further
+increase to 200 mg ACARBOSE VIATRIS three times daily may occasionally be necessary (see section
+4.4 Special warnings and precautions for use).
+1
+If gastrointestinal symptoms are not tolerated despite close adherence to the prescribed diet, a
+reduction in the dose should be considered.
+No modification of the adult dosage regimen is necessary in the elderly.
+4.3 CONTRAINDICATIONS
+Hypersensitivity to acarbose and/or any of the inactive tablet constituents, pregnancy and lactation.
+Acarbose should not be used in patients under 18 years of age.
+Acarbose is contraindicated in patients with severe renal impairment (creatinine clearance <25 mL/min).
+Acarbose is contraindicated in patients with severe hepatic impairment.
+Acarbose should not be used in patients with gastrointestinal disorders associated with
+malabsorption. It should not be used in patients with inflammatory bowel disease (such as ulcerative
+colitis and Crohn's disease), colonic ulceration, partial intestinal obstruction, or in patients
+predisposed to intestinal obstruction or ileus.
+Acarbose should not be used in patients who have chronic intestinal diseases associated with marked
+disorders of digestion or absorption and in patients who suffer from states which may deteriorate as a
+result of increased gas formation in the intestine (e.g. Roemhelds syndrome, major hernias, intestinal
+obstruction and intestinal ulcers).
+Acarbose is contraindicated in patients with diabetic ketoacidosis.
+4.4 SPECIAL WARNINGS AND PRECAUTIONS FOR USE
+General
+The administration of antacid preparations containing magnesium and aluminium salts has been
+shown not to ameliorate the acute gastrointestinal symptoms of acarbose in higher dosage and
+should, therefore, not be recommended to patients for this purpose.
+Ingestion of sucrose and food that contains sucrose can easily lead to considerable intestinal
+symptoms (e.g. flatulence and bloating), or even diarrhoea during treatment with acarbose, as a
+result of increased carbohydrate fermentation in the colon (see section 4.8 Adverse effects
+(Undesirable effects)).
+Hypoglycaemia: Acarbose has an antihyperglycaemic effect, but does not itself induce
+hypoglycaemia. If acarbose is prescribed in addition to drugs containing sulfonylureas or metformin
+or in addition to insulin, a fall of blood glucose levels into the hypoglycaemic range may necessitate a
+suitable decrease in the sulfonylurea, metformin or insulin dose. In individual cases hypoglycaemic
+shock may occur. In the event of acute hypoglycaemia, it should be borne in mind that cane sugar
+(sucrose) is broken down into fructose and glucose more slowly during acarbose treatment and is
+therefore unsuitable for a rapid elimination of hypoglycaemic phenomena. Glucose (i.e. dextrose)
+should be used in place of cane sugar (sucrose).
+2
+Elevated Serum Transaminase Levels: In clinical trials at doses of 50 mg t.i.d. and 100 mg t.i.d., the
+incidence of serum transaminase elevations with acarbose was the same as placebo. In long-term
+studies (up to 12 months, and including acarbose doses up to 300 mg t.i.d.) conducted in the U.S.,
+treatment-emergent elevations of serum transaminases (ALT and/or AST) occurred in 15% of
+acarbose-treated patients as compared to 7% of placebo-treated patients. The elevations were
+asymptomatic, reversible, more common in females and in general, were not associated with other
+evidence of liver dysfunction.
+Cases of fulminant hepatitis have been reported during acarbose therapy (see Section 4.8 Adverse
+effects (undesirable effects). The mechanism is unknown, but acarbose may contribute to a
+multifactorial pathophysiology of liver injury.
+Patients' liver enzyme values should be monitored regularly, preferably at monthly intervals for the
+first 6 to 12 months after initiation of acarbose therapy. If elevated transaminases are observed, a
+reduction in dosage or withdrawal of therapy may be warranted, particularly if the elevations
+persist. In such circumstances, patients should be monitored at weekly intervals until normal values
+are established.
+Use in hepatic impairment
+In patients with a known history of liver impairment or liver disease, liver enzymes should be
+measured prior to the start of acarbose therapy and monitored on a regular basis during the first
+year. If a clinical deterioration or increases in levels of hepatic enzymes are detected,
+discontinuation of treatment with acarbose should be considered.
+Acarbose is contraindicated in patients with severe hepatic impairment (see Section 4.3
+Contraindications).
+Use in renal impairment
+Plasma concentrations of acarbose in renally impaired volunteers were proportionally increased
+relative to the degree of renal dysfunction. Treatment of patients with severe renal dysfunction
+(creatinine clearance <25 mL/min) with acarbose is contraindicated.
+Use in the elderly
+See section 4.2 Dose and method of administration.
+Paediatric use
+Since there is insufficient data on the safety and efficacy of acarbose in children, acarbose should not
+be used in patients under 18 years of age.
+Effects on laboratory tests
+Small reductions in haematocrit occurred more often in acarbose-treated patients than in placebo-
+treated patients but were not associated with reductions in haemoglobin. Low serum calcium and
+low plasma vitamin B6 levels were associated with acarbose therapy but were thought to be either
+spurious or of no clinical significance.
+3
+4.5 INTERACTIONS WITH OTHER MEDICINES AND OTHER FORMS OF INTERACTIONS
+General: Certain drugs tend to produce hyperglycaemia and may lead to loss of blood glucose
+control. These drugs include diuretics (thiazides, furosemide), corticosteroids, phenothiazines,
+thyroid products, oestrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics and
+isoniazid. When such drugs are administered to a patient receiving acarbose, the patient should be
+closely monitored for loss of blood glucose control.
+Oral antidiabetic agents: When acarbose is prescribed in addition to existing treatment with
+sulfonylureas, or metformin, the dosage of the sulfonylurea or metformin must be appropriately
+reduced, should the blood glucose levels fall in the hypoglycaemic range. In individual cases
+hypoglycaemia-related impairment of consciousness may occur.
+Neomycin: Due to neomycin-induced malabsorption of carbohydrate, concomitant administration of
+neomycin may lead to an enhanced reduction of postprandial blood glucose and to an increase in
+the frequency and severity of gastrointestinal adverse reactions. If the symptoms are severe, a
+temporary dose reduction of acarbose may be warranted.
+Colestyramine: The concomitant administration of colestyramine may enhance the effects of
+acarbose, particularly the reduction of postprandial insulin levels. Simultaneous administration of
+acarbose and colestyramine should, therefore, be avoided. If both acarbose and colestyramine
+therapy are withdrawn simultaneously, caution should be exercised as a rebound phenomenon has
+been observed with respect to insulin levels in non-diabetic subjects.
+Digoxin: In individual cases, acarbose may affect digoxin bioavailability, which may require dose
+adjustment of digoxin.
+Intestinal Adsorbents: On the basis of general considerations, the simultaneous use of intestinal
+adsorbents (e.g. charcoal), and digestive enzyme preparations (e.g. amylase, pancreatin) may reduce
+the effect of acarbose and should not be taken concomitantly and be avoided wherever possible.
+Antacids: The concomitant administration of acarbose and antacids does not alter the effect of
+acarbose. The administration of antacid preparations is unlikely to ameliorate the gastrointestinal
+symptoms of acarbose and therefore should not be recommended for this purpose.
+4.6 FERTILITY, PREGNANCY AND LACTATION
+Effects on fertility
+Fertility studies in rats after oral administration produced no untoward effect on fertility or on the
+overall capacity to reproduce at oral dose levels of 540 mg/kg/day (approximately half the exposure
+at the maximal therapeutic dose based on the AUC in rats).
+4
+Use in pregnancy - Pregnancy Category B3
+Studies in rats and rabbits have not yielded any evidence of teratogenic or embryotoxic effects due
+to acarbose when administered at oral doses up to 540 and 480 mg/kg/day, respectively
+(approximately half the exposure at the maximal therapeutic dose based on the AUC in rats). At oral
+doses of 480 mg/kg/day, acarbose caused resorptions in rabbits and increased prenatal losses in rats
+during organogenesis, but was not teratogenic. There are, however, no adequate and well controlled
+studies in pregnant women.
+Acarbose should not be administered during pregnancy as no information from controlled clinical
+studies is available on its use in pregnant women.
+Use in lactation
+Acarbose and/or its metabolites are secreted into milk in rats, with milk levels reaching ten times the
+maternal plasma levels. No information is available on the concentrations of acarbose or its
+metabolites which may appear in human milk following administration of acarbose. Consequently,
+acarbose should not be administered to nursing mothers unless the benefit outweighs the possible
+risk.
+4.7 EFFECTS ON ABILITY TO DRIVE AND USE MACHINES
+The effects of this medicine on a person's ability to drive and use machines were not assessed as
+part of its registration.
+4.8 ADVERSE EFFECTS (UNDESIRABLE EFFECTS)
+The majority of adverse experiences reported to acarbose are gastrointestinal, such as flatulence,
+diarrhoea and abdominal pain, which result from the pharmacodynamic action of the drug. The
+majority of symptoms are of mild or moderate intensity and are dose-dependent. In studies of ≥6
+months duration, the symptoms occurred early (within 1 - 2 months of treatment) and improved
+tolerability with longer duration of treatment was observed. Failure to adhere to the prescribed
+diabetic diet, however, can lead to an intensification of these symptoms. Rarely, these
+gastrointestinal events may be severe and be confused with or due to ileus (see section 4.3
+Contraindications). In individual cases hypersensitive skin reactions may occur e.g. erythema,
+exanthema and urticaria. Rarely, cases of hepatitis and/or jaundice have been reported.
+The frequency of adverse drug reactions reported with acarbose based on placebo-controlled
+studies with acarbose sorted by CIOMS III categories of frequency (placebo-controlled studies in
+clinical trial database: acarbose N = 8,595; placebo N = 7,278; status: 10 Feb 2006) are summarized
+in the table below.
+Within each frequency grouping, undesirable effects are presented in order of decreasing
+seriousness. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10),
+uncommon (≥ 1/1,000 to <1/100) and rare (≥ 1/10,000 to < 1/1,000).
+5
+System Organ
+Class (MedDRA)
+Vascular Disorders
+Gastrointestinal
+Disorders
+Hepatobiliary
+Disorders
+Very Common
+>10%
+Flatulence
+Common
+≥1% to <10%
+Diarrhoea
+Gastrointestinal
+and abdominal
+pains
+Uncommon
+≥0.1% to <1%
+Nausea
+Vomiting
+Dyspepsia
+Rare
+≥0.01% to <0.1%
+Oedema
+Hepatic enzymes Jaundice
+increased
+Soft stools are often produced by acarbose, but if the dosage of the individual case is too high, or
+after simultaneous ingestion of cane sugar, the stools can become unformed or even liquid. Should
+diarrhoea persist, patients should be closely monitored and the dosage reduced, or therapy
+withdrawn, if necessary.
+In addition events reported as liver disorder, hepatic function abnormal, and liver injury have been
+received especially from Japan. Five cases of fulminant hepatitis with fatal outcome have been
+reported in Japan. A relationship to acarbose cannot be excluded.
+If the prescribed diabetic diet is not observed the intestinal side effects may be intensified. If
+strongly distressing symptoms develop in spite of adherence to the diabetic diet prescribed, the
+doctor must be consulted and the dose temporarily or permanently reduced.
+Post Marketing Adverse Event Reports:
+Blood and Lymphatic System Disorders:
+Unknown frequency: Thrombocytopenia
+Immune System Disorders:
+Unknown frequency: Allergic reaction (rash, erythema, exanthema, urticaria)
+Gastrointestinal Disorders:
+Unknown frequency: Subileus/ileus, Pneumatosis cystoides intestinalis
+Hepatobiliary Disorders:
+Unknown frequency: Hepatitis
+Skin and subcutaneous tissue disorders:
+Acute generalised exanthematous pustulosis
+Elevated Serum Transaminase Levels: See section 4.4 Special warnings and precautions for use.
+6
+Reporting suspected adverse effects
+Reporting suspected adverse reactions after registration of the medicinal product is important. It
+allows continued monitoring of the benefit-risk balance of the medicinal product. Healthcare
+professionals are asked to report any suspected adverse reactions at www.tga.gov.au/reporting-
+problems.
+4.9 OVERDOSE
+Overdosage of acarbose taken with food and/or drinks containing carbohydrates, can result in an
+exacerbation of the intestinal effects, i.e. diarrhoea, flatulence, and tympanism.
+In the event of overdose with acarbose in the absence of food, excessive intestinal effects are not
+expected to occur. Hypoglycaemia is unlikely to occur.
+Carbohydrate containing food and/or drinks should be avoided for 4-6 hours following overdosage
+with acarbose.
+Diarrhoea should be treated by standard conservative measures.
+No specific antidotes to acarbose is known.
+For information on the management of overdose, contact the Poisons Information Centre on
+13 11 26 (Australia).
+5 PHARMACOLOGICAL PROPERTIES
+5.1 PHARMACODYNAMIC PROPERTIES
+Mechanism of action
+Acarbose exerts its activity in the intestinal tract. In contrast to sulfonylureas, it has no stimulatory
+action on the pancreas.
+The action of acarbose depends on an inhibition of intestinal enzymes (alpha-glucosidases) involved
+in the degradation of ingested disaccharides, oligosaccharides, and polysaccharides, but not
+monosaccharides. Maximal specific inhibitory activity is against sucrase. This leads, dose
+dependently, to a delayed digestion of the above carbohydrates. The result is that absorbable
+monosaccharides (dextrose) originating from carbohydrates are released more slowly and hence
+more slowly taken up into blood. Absorption of monosaccharides is not affected. In this way,
+acarbose reduces the postprandial rise in blood glucose, the blood-glucose fluctuations in the course
+of the day become truncated, and the mean blood-glucose level is reduced. Acarbose lowers
+abnormally high levels of glycosylated haemoglobin.
+Clinical trials
+Clinical Experience in Non-Insulin Dependent Diabetes Mellitus (NIDDM) Patients on Dietary
+Treatment Only: Results from six controlled, fixed-dose, monotherapy studies of acarbose in the
+treatment of NIDDM, involving 769 acarbose-treated patients, were combined and a weighted
+7
+average of the difference from placebo in the mean change from baseline in glycosylated
+haemoglobin (HbA1c) was calculated for each dose level as presented below.
+Table 1
+Mean change in HbA1c in Fixed-Dose Monotherapy Studies
+Dose of Acarbose*
+N
+Change in HbA1c
+%
+p-Value
+25 mg t.i.d.
+110
+-0.44
+0.0307
+50 mg t.i.d.
+131
+-0.77
+0.0001
+100 mg t.i.d.
+244
+-0.74
+0.0001
+200 mg t.i.d.**
+231
+-0.86
+0.0001
+300 mg t.i.d.**
+53
+-1.00
+0.0001
+*Acarbose was statistically significantly different from placebo at all doses. Although there were no
+statistically significant differences among the mean results for doses ranging between 50 to 300 mg t.i.d.
+some patients may derive benefit by increasing the dosage from 50 to 100 mg t.i.d.
+**Although studies utilised a maximum dose of 200 or 300 mg t.i.d. the maximum recommended dose for
+patients is 200 mg t.i.d.
+Clinical Experience in NIDDM Patients Receiving Sulfonylureas: Acarbose was studied as adjunctive
+therapy to sulfonylurea treatment in two large, placebo-controlled, double-blind, randomised
+studies of 24 weeks duration, in which 540 patients were included in the efficacy analysis. In
+addition, acarbose was studied as adjunctive therapy to sulfonylurea treatment in a third study of
+one year duration, in which patients were stratified according to background therapy. Study 1 (Table
+2) involved patients under treatment at entry with diet alone who were subsequently randomised to
+four treatment groups. At the end of the study, patients in the acarbose + tolbutamide group
+showed a mean treatment effect on glycosylated haemoglobin (HbA1c) of -1.78% and were receiving
+a significantly lower mean daily dose of tolbutamide than patients in the tolbutamide-alone group.
+Also, the efficacy in the acarbose + tolbutamide groups was significantly better than in the other
+three treatment groups. Study 2 (Table 2) involved patients taking background treatment with
+maximum daily doses of sulfonylureas. At the end of this study, the mean effect of the addition of
+acarbose to maximum sulfonylurea therapy was a change in HbA1c of -0.54%. In addition, there was
+a significantly greater proportion of patients in the acarbose + sulfonylurea group who reduced their
+sulfonylurea dose as compared to patients in the placebo + sulfonylurea group. In Study 3 (Table 2),
+the addition of acarbose to a background treatment of sulfonylurea in 96 patients produced an
+additional change in mean HbA1c of -0.9%.
+8
+Table 2
+HbA1c (%)
+Study
+Treatment
+Mean
+Baseline*
+Mean Change
+from Baseline
+Treatment
+Difference**
+(90% Confidence
+Interval)
+p-Value
+1
+Placebo
+9.48
++0.05
+-
+Acarbose 200 mg t.i.d.
+9.19
+-0.71
+-0.76
+(-1.05, -0.47)
+0.0005
+Tolbutamide 250-1000
+mg t.i.d.
+9.28
+-1.22
+-1.27
+(-1.56, -0.98)
+0.0001
+(mean dose 2.4 g/d)
+Acarbose 200 mg t.i.d. +
+Tolbutamide 250-1000
+mg t.i.d.
+8.99
+-1.73
+-1.78
+(-2.08, -1.48)
+0.0001
+(mean dose 1.9 g/d)
+2
+Sulfonylurea + Placebo
+9.56
++0.24
+-
+Sulfonylurea + Acarbose
+50-300 mg t.i.d.
+9.64
+-0.30
+-0.54
+(-0.83, -0.25)
+0.0096
+3
+Sulfonylurea + Placebo
+8.00
++0.10
+-
+Sulfonylurea + Acarbose
+50-200 mg t.i.d.
+8.10
+-0.80
+-0.90
+(-1.33, -0.47)
+0.0020
+Metformin + Placebo
+7.9
++0.3
+-
+Metformin + Acarbose
+50-200 mg t.i.d.
+7.8
+-0.5
+-0.8
+(-1.30, -0.30)
+0.0106
+* Normal range: 4-6%
+** The result of subtracting the placebo group average.
++ Although studies utilised a maximum dose of 200 or 300 mg t.i.d., the maximum recommended dose for
+patients is 200 mg t.i.d.
+Clinical Experience in NIDDM Patients Receiving Metformin: Acarbose was also studied as
+adjunctive therapy to metformin treatment in a one year study (Study 3). In this study (Table 2), the
+addition of acarbose to 74 patients on metformin treatment produced an additional change in mean
+HbA1c of -0.8%.
+As can be seen by the above studies, acarbose lowers HbA1c levels either alone or in combination
+with other oral hypoglycaemic agents. Overall 58% of the NIDDM patients studied were women.
+There is no long-term data on morbidity and mortality.
+5.2 PHARMACOKINETIC PROPERTIES
+Absorption
+One to 2% of an oral dose of acarbose is absorbed from the gastrointestinal tract as unchanged drug.
+After the oral administration of 200 mg 14C-labelled acarbose (200 mg) to 6 healthy volunteers,
+approximately 35% of total radioactivity (changed and unchanged drug) appeared in the urine. An
+average of 51% of the oral dose was excreted in the faeces as unabsorbed drug-related radioactivity
+within 96 hours of ingestion. The proportion of active substance excreted in the urine was 1.7% of
+9
+the administered dose. The low systemic bioavailability of the parent drug is therapeutically desired,
+because acarbose acts locally within the gastrointestinal tract. Following oral dosing with acarbose,
+peak plasma concentrations of radioactivity were attained 14 - 24 hours after dosing (586.3 ± 282.7
+µg/L after 20.7 ± 5.2 hours), while peak plasma concentrations of active drug were attained at
+approximately 1 hour (52.2 ± 15.7 µg/L after 1.1 ± 0.3 hours). The delayed absorption of acarbose-
+related radioactivity reflects the absorption of metabolites that may be formed by either intestinal
+bacteria or intestinal enzymatic hydrolysis.
+Metabolism
+Acarbose is metabolised exclusively within the gastrointestinal tract, principally by intestinal
+bacteria, but also by digestive enzymes. A fraction of these metabolites (approximately 34% of the
+dose) was absorbed and subsequently excreted in the urine. At least 13 metabolites have been
+separated chromatographically from urine specimens. The major metabolites have been identified
+as 4-methylpyrogallol derivatives (i.e. sulfate, methyl, and glucuronide conjugates). One metabolite
+(formed by the cleavage of a glucose molecule from acarbose) also has α-glucosidase inhibitory
+activity. This metabolite, together with the parent compound, recovered from the urine, accounts
+for less than 2% of the total administered dose.
+Excretion
+The fraction of acarbose that is absorbed as intact drug is almost completely excreted by the
+kidneys. When acarbose was given intravenously, 89% of the dose was recovered in the urine as
+active drug within 48 hours. In contrast, less than 2% of an oral dose was recovered in the urine as
+active (i.e. parent compound and active metabolite) drug. This is consistent with the low
+bioavailability of the parent drug. The plasma elimination half-life of acarbose activity is
+approximately 2 hours in healthy volunteers. Consequently, drug accumulation does not occur with
+three times a day (t.i.d.) oral dosing.
+5.3 PRECLINICAL SAFETY DATA
+Genotoxicity
+Acarbose showed no genotoxic potential in a series of assays for gene mutations, chromosomal
+damage and DNA damage.
+Carcinogenicity
+Acarbose increased the incidences of hypernephroid carcinomas and cortical adenomas of the
+kidneys and Leydig cell tumours in the testes of Sprague-Dawley rats at dietary concentrations of
+approximately 23 mg/kg/day and under conditions of severe malnutrition developing from
+glucosidase inhibition (reduced glucose utilisation, loss of isocaloric state).
+6 PHARMACEUTICAL PARTICULARS
+6.1 LIST OF EXCIPIENTS
+In addition to acarbose, ACARBOSE VIATRIS tablets contain the following inactive ingredients:
+microcrystalline cellulose, pregelatinised maize starch, colloidal anhydrous silica and magnesium
+stearate.
+10
+6.2 INCOMPATIBILITIES
+Incompatibilities were either not assessed or not identified as part of the registration of this
+medicine.
+6.3 SHELF LIFE
+In Australia, information on the shelf life can be found on the public summary of the Australian
+Register of Therapeutic Goods (ARTG). The expiry date can be found on the packaging.
+6.4 SPECIAL PRECAUTIONS FOR STORAGE
+Store below 25°C. Protect from moisture.
+6.5 NATURE AND CONTENTS OF CONTAINER
+ACARBOSE VIATRIS is available in PVC/PE/PVDC/Al blister packs of 90 tablets.
+Australian Register of Therapeutic Goods (ARTG)
+AUST R 226796 – ACARBOSE VIATRIS acarbose 50 mg tablet blister pack
+AUST R 226797 – ACARBOSE VIATRIS acarbose 100 mg tablet blister pack
+6.6 SPECIAL PRECAUTIONS FOR DISPOSAL
+In Australia, any unused medicine or waste material should be disposed of by taking to your local
+pharmacy.
+6.7 PHYSICOCHEMICAL PROPERTIES
+Chemical structure
+HO
+CH2OH
+1
+ια 4
+CH3
+HOHO HN
+HOHO
+4 CH2OH
+HO
+HO
+a 4
+CH2OH
+HO HO
+~OH
+ACARBOSE VIATRIS contains acarbose which is a complex oligosaccharide of microbial origin.
+Acarbose is made up of an unsaturated cyclitol unit, an amino sugar and a maltose residue. Acarbose
+is a white or yellowish powder with a molecular weight of 645.6. Acarbose is very soluble in water
+and has a pka of 5.1. The empirical formula is C25H43NO18
+CAS number
+56180-94-0
+7 MEDICINE SCHEDULE (POISONS STANDARD)
+S4: Prescription Only Medicine
+11
+8 SPONSOR
+Arrotex Pharmaceuticals Pty Ltd
+15-17 chapel St
+Cremorne 3121
+VIC Australia
+www.arrotex.com.au
+9 DATE OF FIRST APPROVAL
+14 May 2015
+10 DATE OF REVISION
+13 April 2026
+SUMMARY TABLE OF CHANGES
+Section
+Changed
+Summary of new information
+4.3
+Addition of following contraindications:
+severe hepatic impairment
+colonic ulceration
+chronic intestinal disease (e.g. Roemhelds syndrome, major hernias, intestinal
+obstruction and intestinal ulcers)
+diabetic ketoacidosis
+Addition of following warnings and precautions:
+general: coadministration of antacid preparations
+4.4
+fulminant hepatitis
+severe hepatic impairment
+use in renal impairment
+4.5
+Addition of interactions with other medicines (colestyramine).
+4.8
+Addition of adverse effects
+acute generalised exanthematous pustulosis (post-marketing adverse effects).
+4.9
+Update to overdose section.
+Header, 4.8 Minor editorial changes.
+12
